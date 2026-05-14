@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "LOG_1778801679240_1XIH",
+    "ts": 1778801679240,
+    "tsStr": "15/5/2026, 07:34:39",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "akses bot",
+    "ver": "—",
+    "phone": null
+  }
+]
