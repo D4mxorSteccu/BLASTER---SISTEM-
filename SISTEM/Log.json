@@ -31,5 +31,16 @@
     "detail": "owners: 7961446166",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "LOG_1778801832002_GVWM",
+    "ts": 1778801832002,
+    "tsStr": "15/5/2026, 07:37:12",
+    "act": "ROLE_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "moderators: 7961446166",
+    "ver": "—",
+    "phone": null
   }
 ]
