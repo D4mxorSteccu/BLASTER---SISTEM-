@@ -67,5 +67,16 @@
     "ok": 1,
     "fail": 0,
     "total": 1
+  },
+  {
+    "id": "LOG_1778815475026_N2X0",
+    "ts": 1778815475026,
+    "tsStr": "15/5/2026, 11:24:35",
+    "act": "START",
+    "uid": "1825733639",
+    "uname": "D4mxor",
+    "detail": "akses bot",
+    "ver": "—",
+    "phone": null
   }
 ]
