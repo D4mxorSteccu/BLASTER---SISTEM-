@@ -200,5 +200,17 @@
     "detail": "owners_v3: 1825733639",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17788821210926KF",
+    "ts": 1778882121092,
+    "tsStr": "16/5/2026, 05:55:21",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Tambah akses V5: 1825733639",
+    "ver": "V5",
+    "phone": null,
+    "teleId": "1825733639"
   }
 ]
