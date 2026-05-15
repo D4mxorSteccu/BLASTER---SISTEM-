@@ -189,5 +189,16 @@
     "detail": "Login: OWNER_V3",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17788820937488IO",
+    "ts": 1778882093748,
+    "tsStr": "16/5/2026, 05:54:53",
+    "act": "ROLE_DEL",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "owners_v3: 1825733639",
+    "ver": "—",
+    "phone": null
   }
 ]
