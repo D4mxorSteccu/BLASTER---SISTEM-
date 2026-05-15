@@ -100,5 +100,17 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17788810189133UI",
+    "ts": 1778881018913,
+    "tsStr": "16/5/2026, 05:36:58",
+    "act": "DEL_REQ",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Mohon padam V5: 601130538675",
+    "ver": "V5",
+    "phone": "601130538675",
+    "requestId": "del_V5_7961446166_1778881018013"
   }
 ]
