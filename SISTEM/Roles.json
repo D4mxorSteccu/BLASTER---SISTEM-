@@ -1,8 +1,14 @@
 {
-  "owners": [
+  "kings": [],
+  "owners_v3": [],
+  "owners_v4": [
+    "1825733639"
+  ],
+  "owners_v5": [],
+  "moderators": [
     "7961446166"
   ],
-  "moderators": [
+  "owners": [
     "7961446166"
   ]
 }
