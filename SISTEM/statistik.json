@@ -1,1 +1,22 @@
-{}
+{
+  "totalAdd": {
+    "V3": 0,
+    "V4": 0,
+    "V5": 0
+  },
+  "totalDel": {
+    "V3": 0,
+    "V4": 0,
+    "V5": 0
+  },
+  "totalAdd2": 0,
+  "totalBulk": 0,
+  "totalApproved": 0,
+  "totalRejected": 0,
+  "totalBlacklist": 0,
+  "totalWarning": 0,
+  "totalSeller": 0,
+  "totalBroadcast": 1,
+  "totalMembers": 0,
+  "lastUpdated": "15/5/2026, 11:24:17"
+}
