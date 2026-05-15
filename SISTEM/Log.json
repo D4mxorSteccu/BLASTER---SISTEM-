@@ -256,5 +256,18 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1778883202701HO8",
+    "ts": 1778883202701,
+    "tsStr": "16/5/2026, 06:13:22",
+    "act": "BROADCAST",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Broadcast ke 2 pengguna",
+    "ver": "—",
+    "phone": null,
+    "ok": 2,
+    "fail": 1
   }
 ]
