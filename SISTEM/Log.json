@@ -245,5 +245,16 @@
     "detail": "Login: RESELLER_V5",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1778883133538E1L",
+    "ts": 1778883133538,
+    "tsStr": "16/5/2026, 06:12:13",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
