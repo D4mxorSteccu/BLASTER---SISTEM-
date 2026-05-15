@@ -269,5 +269,16 @@
     "phone": null,
     "ok": 2,
     "fail": 1
+  },
+  {
+    "id": "L177888932996489G",
+    "ts": 1778889329964,
+    "tsStr": "16/5/2026, 07:55:29",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
