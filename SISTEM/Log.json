@@ -145,5 +145,16 @@
     "detail": "Login: OWNER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1778881750100HXA",
+    "ts": 1778881750100,
+    "tsStr": "16/5/2026, 05:49:10",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
