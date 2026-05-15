@@ -53,5 +53,19 @@
     "detail": "akses bot",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "LOG_1778815437795_IDED",
+    "ts": 1778815437795,
+    "tsStr": "15/5/2026, 11:23:57",
+    "act": "BROADCAST",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Broadcast ke 1 pengguna",
+    "ver": "—",
+    "phone": null,
+    "ok": 1,
+    "fail": 0,
+    "total": 1
   }
 ]
