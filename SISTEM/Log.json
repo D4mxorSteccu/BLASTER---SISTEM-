@@ -447,5 +447,16 @@
     "detail": "Tolak padam V5: 601127782009",
     "ver": "V5",
     "phone": "601127782009"
+  },
+  {
+    "id": "L1778922417305UTP",
+    "ts": 1778922417305,
+    "tsStr": "16/5/2026, 17:06:57",
+    "act": "NEW_MEMBER",
+    "uid": "1538326211",
+    "uname": "suport_group_realli",
+    "detail": "Member baru: Support Group - IB",
+    "ver": "—",
+    "phone": null
   }
 ]
