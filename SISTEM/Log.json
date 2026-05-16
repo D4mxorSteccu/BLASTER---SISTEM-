@@ -549,5 +549,16 @@
     "detail": "Reseller Group: -1003785170196 — DAMX BLASTER | INFORMATION",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1778929803490MXR",
+    "ts": 1778929803490,
+    "tsStr": "16/5/2026, 19:10:03",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
