@@ -1,5 +1,5 @@
 {
-  "groupOnly": true,
+  "groupOnly": false,
   "privateOnly": false,
   "panelEnabled": false,
   "autoBackup": false
