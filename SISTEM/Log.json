@@ -538,5 +538,16 @@
     "detail": "owners_v5: 1825733639",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1778929662614V0Q",
+    "ts": 1778929662614,
+    "tsStr": "16/5/2026, 19:07:42",
+    "act": "GRP_ADD_RGRP",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Reseller Group: -1003785170196 — DAMX BLASTER | INFORMATION",
+    "ver": "—",
+    "phone": null
   }
 ]
