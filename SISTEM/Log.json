@@ -401,5 +401,17 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1778922260029QT5",
+    "ts": 1778922260029,
+    "tsStr": "16/5/2026, 17:04:20",
+    "act": "AKSES_DEL",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Buang akses V5: 1825733639",
+    "ver": "V5",
+    "phone": null,
+    "teleId": "1825733639"
   }
 ]
