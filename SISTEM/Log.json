@@ -661,5 +661,17 @@
     "ver": "V4",
     "phone": null,
     "teleId": "1983044179"
+  },
+  {
+    "id": "L1778941317919N7Y",
+    "ts": 1778941317919,
+    "tsStr": "16/5/2026, 22:21:57",
+    "act": "AKSES_DEL",
+    "uid": "1825733639",
+    "uname": "D4mxor",
+    "detail": "Buang akses V4: 6946122020",
+    "ver": "V4",
+    "phone": null,
+    "teleId": "6946122020"
   }
 ]
