@@ -515,5 +515,17 @@
     "ver": "V5",
     "phone": null,
     "teleId": "1825733639"
+  },
+  {
+    "id": "L177892945489145F",
+    "ts": 1778929454891,
+    "tsStr": "16/5/2026, 19:04:14",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Tambah akses V5: 1825733639",
+    "ver": "V5",
+    "phone": null,
+    "teleId": "1825733639"
   }
 ]
