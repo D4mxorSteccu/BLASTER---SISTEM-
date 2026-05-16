@@ -627,5 +627,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17789410295860LO",
+    "ts": 1778941029586,
+    "tsStr": "16/5/2026, 22:17:09",
+    "act": "SEMAK",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Semak: 601121348940",
+    "ver": "—",
+    "phone": "601121348940"
   }
 ]
