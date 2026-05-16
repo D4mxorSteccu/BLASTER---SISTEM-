@@ -424,5 +424,17 @@
     "detail": "Login: OWNER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1778922340588ZUU",
+    "ts": 1778922340588,
+    "tsStr": "16/5/2026, 17:05:40",
+    "act": "DEL_REQ",
+    "uid": "1825733639",
+    "uname": "D4mxor",
+    "detail": "Mohon padam V5: 601127782009",
+    "ver": "V5",
+    "phone": "601127782009",
+    "requestId": "del_V5_1825733639_1778922339713"
   }
 ]
