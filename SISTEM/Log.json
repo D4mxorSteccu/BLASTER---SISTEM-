@@ -673,5 +673,16 @@
     "ver": "V4",
     "phone": null,
     "teleId": "6946122020"
+  },
+  {
+    "id": "L1778951279335PF7",
+    "ts": 1778951279335,
+    "tsStr": "17/5/2026, 01:07:59",
+    "act": "START",
+    "uid": "6746319597",
+    "uname": "acapzx123",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
