@@ -368,5 +368,16 @@
     "detail": "Login: RESELLER_V5",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1778922223803LPR",
+    "ts": 1778922223803,
+    "tsStr": "16/5/2026, 17:03:43",
+    "act": "ROLE_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "owners_v4: 1825733639",
+    "ver": "—",
+    "phone": null
   }
 ]
