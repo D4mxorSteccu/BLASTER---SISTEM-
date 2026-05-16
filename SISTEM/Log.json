@@ -605,5 +605,16 @@
     "detail": "Login: KING",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17789318106525PZ",
+    "ts": 1778931810652,
+    "tsStr": "16/5/2026, 19:43:30",
+    "act": "START",
+    "uid": "8206532657",
+    "uname": "NishOnlyyy",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
