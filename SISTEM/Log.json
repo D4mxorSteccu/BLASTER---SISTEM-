@@ -649,5 +649,17 @@
     "detail": "Login: KING",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1778941243522TM5",
+    "ts": 1778941243522,
+    "tsStr": "16/5/2026, 22:20:43",
+    "act": "AKSES_ADD",
+    "uid": "1825733639",
+    "uname": "D4mxor",
+    "detail": "Tambah akses V4: 1983044179",
+    "ver": "V4",
+    "phone": null,
+    "teleId": "1983044179"
   }
 ]
