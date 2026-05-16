@@ -560,5 +560,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1778929815371PJG",
+    "ts": 1778929815371,
+    "tsStr": "16/5/2026, 19:10:15",
+    "act": "GRP_SYNC",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Sync 3 group: 94 ok, 74 fail",
+    "ver": "—",
+    "phone": null
   }
 ]
