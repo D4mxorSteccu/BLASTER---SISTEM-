@@ -458,5 +458,16 @@
     "detail": "Member baru: Support Group - IB",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1778922585201TCC",
+    "ts": 1778922585201,
+    "tsStr": "16/5/2026, 17:09:45",
+    "act": "ROLE_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "kings: 1825733639",
+    "ver": "—",
+    "phone": null
   }
 ]
