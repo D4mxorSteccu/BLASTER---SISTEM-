@@ -527,5 +527,16 @@
     "ver": "V5",
     "phone": null,
     "teleId": "1825733639"
+  },
+  {
+    "id": "L1778929576730VWM",
+    "ts": 1778929576730,
+    "tsStr": "16/5/2026, 19:06:16",
+    "act": "ROLE_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "owners_v5: 1825733639",
+    "ver": "—",
+    "phone": null
   }
 ]
