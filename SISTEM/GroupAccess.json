@@ -1,5 +1,8 @@
 {
   "allowed": [],
   "customer_hub": -1003804625686,
-  "reseller_groups": [-1003785170196]
+  "reseller_groups": [
+    -1003785170196,
+    "-1003785170196"
+  ]
 }
