@@ -684,5 +684,16 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779003736537ABY",
+    "ts": 1779003736537,
+    "tsStr": "17/5/2026, 15:42:16",
+    "act": "START",
+    "uid": "6746319597",
+    "uname": "acapzx123",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
