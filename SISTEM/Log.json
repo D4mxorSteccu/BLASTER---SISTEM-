@@ -778,5 +778,16 @@
     "ver": "V4",
     "phone": "601163701405",
     "requestId": "db_V4_6746319597_1779007796133"
+  },
+  {
+    "id": "L1779008704145SIP",
+    "ts": 1779008704145,
+    "tsStr": "17/5/2026, 17:05:04",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
