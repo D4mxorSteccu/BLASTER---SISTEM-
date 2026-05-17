@@ -789,5 +789,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17790087671615V3",
+    "ts": 1779008767161,
+    "tsStr": "17/5/2026, 17:06:07",
+    "act": "START",
+    "uid": "1825733639",
+    "uname": "D4mxor",
+    "detail": "Login: KING",
+    "ver": "—",
+    "phone": null
   }
 ]
