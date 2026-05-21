@@ -800,5 +800,16 @@
     "detail": "Login: KING",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779337627064P5K",
+    "ts": 1779337627064,
+    "tsStr": "21/5/2026, 12:27:07",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
