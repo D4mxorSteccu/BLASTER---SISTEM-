@@ -1,5 +1,12 @@
 {
-  "allowed": [],
+  "allowed": [
+    {
+      "id": "-1003520251018",
+      "title": "HAFIZIE dan D4mxor Testing",
+      "addedBy": "D4mxorx",
+      "addedAt": "21/5/2026, 12:29:14"
+    }
+  ],
   "customer_hub": -1003804625686,
   "reseller_groups": [
     -1003785170196,
