@@ -811,5 +811,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779337691541CCW",
+    "ts": 1779337691541,
+    "tsStr": "21/5/2026, 12:28:11",
+    "act": "START",
+    "uid": "1825733639",
+    "uname": "D4mxor",
+    "detail": "Login: KING",
+    "ver": "—",
+    "phone": null
   }
 ]
