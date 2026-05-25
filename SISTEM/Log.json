@@ -927,5 +927,16 @@
     "ver": "V5",
     "phone": "601122334455",
     "requestId": "del_V5_1825733639_1779722128571"
+  },
+  {
+    "id": "L1779722204745CND",
+    "ts": 1779722204745,
+    "tsStr": "25/5/2026, 23:16:44",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
