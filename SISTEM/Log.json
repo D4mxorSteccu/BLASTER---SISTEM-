@@ -1229,5 +1229,16 @@
     "detail": "Full backup dari Database",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17798131614412EN",
+    "ts": 1779813161441,
+    "tsStr": "27/5/2026, 24:32:41",
+    "act": "NEW_MEMBER",
+    "uid": "8763597820",
+    "uname": "ManzStoreMy",
+    "detail": "Member baru: Rahman",
+    "ver": "—",
+    "phone": null
   }
 ]
