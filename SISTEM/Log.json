@@ -994,5 +994,17 @@
     "detail": "kings: 1825733639",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779793240109U9U",
+    "ts": 1779793240109,
+    "tsStr": "26/5/2026, 19:00:40",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Tambah akses V5: 1825733639",
+    "ver": "V5",
+    "phone": null,
+    "teleId": "1825733639"
   }
 ]
