@@ -1218,5 +1218,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779809963384JMY",
+    "ts": 1779809963384,
+    "tsStr": "26/5/2026, 23:39:23",
+    "act": "BACKUP",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Full backup dari Database",
+    "ver": "—",
+    "phone": null
   }
 ]
