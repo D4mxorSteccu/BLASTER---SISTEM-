@@ -1119,5 +1119,16 @@
     "detail": "Semak: 601234567889",
     "ver": "—",
     "phone": "601234567889"
+  },
+  {
+    "id": "L177979941217798L",
+    "ts": 1779799412177,
+    "tsStr": "26/5/2026, 20:43:32",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
