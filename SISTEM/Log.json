@@ -1174,5 +1174,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779809742908GMX",
+    "ts": 1779809742908,
+    "tsStr": "26/5/2026, 23:35:42",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
