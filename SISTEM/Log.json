@@ -971,5 +971,17 @@
     "detail": "owners_v5: 1825733639",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779793211233E9J",
+    "ts": 1779793211233,
+    "tsStr": "26/5/2026, 19:00:11",
+    "act": "AKSES_DEL",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Buang akses V5: 1825733639",
+    "ver": "V5",
+    "phone": null,
+    "teleId": "1825733639"
   }
 ]
