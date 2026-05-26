@@ -1051,5 +1051,16 @@
     "detail": "Tolak padam V5: 601130538675",
     "ver": "V5",
     "phone": "601130538675"
+  },
+  {
+    "id": "L1779793379465MOJ",
+    "ts": 1779793379465,
+    "tsStr": "26/5/2026, 19:02:59",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
