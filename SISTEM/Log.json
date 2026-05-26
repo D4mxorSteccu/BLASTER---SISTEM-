@@ -960,5 +960,16 @@
     "detail": "owners_v4: 1825733639",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17797931988279DO",
+    "ts": 1779793198827,
+    "tsStr": "26/5/2026, 18:59:58",
+    "act": "ROLE_DEL",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "owners_v5: 1825733639",
+    "ver": "—",
+    "phone": null
   }
 ]
