@@ -983,5 +983,16 @@
     "ver": "V5",
     "phone": null,
     "teleId": "1825733639"
+  },
+  {
+    "id": "L1779793223307YN1",
+    "ts": 1779793223307,
+    "tsStr": "26/5/2026, 19:00:23",
+    "act": "ROLE_DEL",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "kings: 1825733639",
+    "ver": "—",
+    "phone": null
   }
 ]
