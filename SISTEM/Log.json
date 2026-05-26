@@ -1017,5 +1017,16 @@
     "detail": "Login: RESELLER_V5",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779793294104OU3",
+    "ts": 1779793294104,
+    "tsStr": "26/5/2026, 19:01:34",
+    "act": "SEMAK",
+    "uid": "1825733639",
+    "uname": "D4mxor",
+    "detail": "Semak: 601130538675",
+    "ver": "—",
+    "phone": "601130538675"
   }
 ]
