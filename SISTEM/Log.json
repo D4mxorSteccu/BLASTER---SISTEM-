@@ -1207,5 +1207,16 @@
     "detail": "Sync 3 group: 94 ok, 73 fail",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L177980993433406S",
+    "ts": 1779809934334,
+    "tsStr": "26/5/2026, 23:38:54",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
