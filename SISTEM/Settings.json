@@ -2,5 +2,5 @@
   "groupOnly": true,
   "privateOnly": false,
   "panelEnabled": false,
-  "autoBackup": true
+  "autoBackup": false
 }
