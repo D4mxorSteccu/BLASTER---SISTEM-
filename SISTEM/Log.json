@@ -1328,5 +1328,16 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17798947520033JW",
+    "ts": 1779894752003,
+    "tsStr": "27/5/2026, 23:12:32",
+    "act": "START",
+    "uid": "8220023285",
+    "uname": "fiqueesec",
+    "detail": "Login: RESELLER_V3",
+    "ver": "—",
+    "phone": null
   }
 ]
