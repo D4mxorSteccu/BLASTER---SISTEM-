@@ -1427,5 +1427,16 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779895204421E9I",
+    "ts": 1779895204421,
+    "tsStr": "27/5/2026, 23:20:04",
+    "act": "START",
+    "uid": "7566686461",
+    "uname": "Shahoffcial",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
