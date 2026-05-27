@@ -1317,5 +1317,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779894704490XU0",
+    "ts": 1779894704490,
+    "tsStr": "27/5/2026, 23:11:44",
+    "act": "START",
+    "uid": "1983044179",
+    "uname": "Kizxxgacor",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
