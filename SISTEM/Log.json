@@ -1295,5 +1295,16 @@
     "detail": "owners_v4: 1825733639",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779894364379TO5",
+    "ts": 1779894364379,
+    "tsStr": "27/5/2026, 23:06:04",
+    "act": "START",
+    "uid": "1825733639",
+    "uname": "D4mxor",
+    "detail": "Login: OWNER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
