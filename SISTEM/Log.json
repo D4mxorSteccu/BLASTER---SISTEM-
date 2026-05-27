@@ -1472,5 +1472,16 @@
     "ver": "V3",
     "phone": null,
     "teleId": "1825733639"
+  },
+  {
+    "id": "L177990841887274K",
+    "ts": 1779908418872,
+    "tsStr": "28/5/2026, 03:00:18",
+    "act": "START",
+    "uid": "8206532657",
+    "uname": "NishOnlyyy",
+    "detail": "Login: OWNER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
