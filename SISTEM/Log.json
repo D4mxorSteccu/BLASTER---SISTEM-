@@ -1273,5 +1273,16 @@
     "detail": "owners_v4: 8206532657",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779894332982IDU",
+    "ts": 1779894332982,
+    "tsStr": "27/5/2026, 23:05:32",
+    "act": "ROLE_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "moderators: 8206532657",
+    "ver": "—",
+    "phone": null
   }
 ]
