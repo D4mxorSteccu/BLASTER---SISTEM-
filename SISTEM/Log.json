@@ -1372,5 +1372,16 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779894870997CGQ",
+    "ts": 1779894870997,
+    "tsStr": "27/5/2026, 23:14:30",
+    "act": "START",
+    "uid": "1825733639",
+    "uname": "D4mxor",
+    "detail": "Login: OWNER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
