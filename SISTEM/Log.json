@@ -1251,5 +1251,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779894306508KIO",
+    "ts": 1779894306508,
+    "tsStr": "27/5/2026, 23:05:06",
+    "act": "ROLE_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "owners_v3: 8206532657",
+    "ver": "—",
+    "phone": null
   }
 ]
