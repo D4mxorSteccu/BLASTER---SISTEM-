@@ -1483,5 +1483,17 @@
     "detail": "Login: OWNER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1779926421664ZDZ",
+    "ts": 1779926421664,
+    "tsStr": "28/5/2026, 08:00:21",
+    "act": "AKSES_ADD",
+    "uid": "8206532657",
+    "uname": "NishOnlyyy",
+    "detail": "Tambah akses V4: 8220023285",
+    "ver": "V4",
+    "phone": null,
+    "teleId": "8220023285"
   }
 ]
