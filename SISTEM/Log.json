@@ -1495,5 +1495,16 @@
     "ver": "V4",
     "phone": null,
     "teleId": "8220023285"
+  },
+  {
+    "id": "L17799316878395DI",
+    "ts": 1779931687839,
+    "tsStr": "28/5/2026, 09:28:07",
+    "act": "START",
+    "uid": "1776051218",
+    "uname": "Zakriss",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
