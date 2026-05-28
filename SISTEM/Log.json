@@ -1518,5 +1518,16 @@
     "ver": "V4",
     "phone": null,
     "teleId": "8512404465"
+  },
+  {
+    "id": "L17799427637994C6",
+    "ts": 1779942763799,
+    "tsStr": "28/5/2026, 12:32:43",
+    "act": "START",
+    "uid": "8512404465",
+    "uname": "Kimi661",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
