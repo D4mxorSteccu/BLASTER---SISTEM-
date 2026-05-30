@@ -472,5 +472,23 @@
     "byUname": "D4mxorx",
     "at": 1780139112092,
     "atStr": "30/5/2026, 19:05:12"
+  },
+  {
+    "id": "db_V4_8273587591_1780140001662",
+    "type": "db_add",
+    "phone": "601161655670",
+    "ver": "V4",
+    "uid": "8273587591",
+    "uname": "Nialflacko",
+    "name": "𝙉𝙄𝘼𝙇",
+    "ts": 1780140001662,
+    "tsStr": "30/5/2026, 19:20:01",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAIsZGoax8Z2QK_vcTqUpVhRt-8V7AdgAAJtEmsbqk7RVKK-RZnlQttBAQADAgADeQADOwQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
