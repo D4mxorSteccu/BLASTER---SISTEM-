@@ -1785,5 +1785,17 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780109754637WKV",
+    "ts": 1780109754637,
+    "tsStr": "30/5/2026, 10:55:54",
+    "act": "DB_REQ",
+    "uid": "8623176858",
+    "uname": "fayymarket",
+    "detail": "Mohon tambah V4: 60199910755",
+    "ver": "V4",
+    "phone": "60199910755",
+    "requestId": "db_V4_8623176858_1780109753378"
   }
 ]
