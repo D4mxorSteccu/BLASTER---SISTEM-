@@ -1740,5 +1740,16 @@
     "ver": "V4",
     "phone": "60199910755",
     "requestId": "db_V4_8623176858_1780102763288"
+  },
+  {
+    "id": "L1780102771572DCF",
+    "ts": 1780102771572,
+    "tsStr": "30/5/2026, 08:59:31",
+    "act": "START",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
