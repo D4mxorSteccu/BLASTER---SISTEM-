@@ -424,5 +424,23 @@
     "byUname": "NishOnlyyy",
     "at": 1780112116105,
     "atStr": "30/5/2026, 11:35:16"
+  },
+  {
+    "id": "db_V4_8477166862_1780124804623",
+    "type": "db_add",
+    "phone": "601128123220",
+    "ver": "V4",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "name": "𝙍𝙄𝙓𝙓𝙕𝙕 𝙎𝙏𝙊𝙍𝙀 #𝙎𝙏𝙍𝙈𝙔_15",
+    "ts": 1780124804623,
+    "tsStr": "30/5/2026, 15:06:44",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAIsTmoajHT0RX77_7oUiKEdBwQekIQGAAIND2sbnQrQVI38k6n2RlfAAQADAgADeQADOwQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
