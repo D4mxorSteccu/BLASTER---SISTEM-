@@ -1705,5 +1705,16 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L178010273867625F",
+    "ts": 1780102738676,
+    "tsStr": "30/5/2026, 08:58:58",
+    "act": "START",
+    "uid": "1776051218",
+    "uname": "Zakriss",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
