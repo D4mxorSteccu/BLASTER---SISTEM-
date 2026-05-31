@@ -1936,5 +1936,18 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780216319391TJT",
+    "ts": 1780216319391,
+    "tsStr": "31/5/2026, 16:31:59",
+    "act": "ADD2_REQ",
+    "uid": "8465749326",
+    "uname": "marmy5",
+    "detail": "Mohon nombor 2: 601162914307 → 601153210775",
+    "ver": "V4",
+    "phone": "601153210775",
+    "phone1": "601162914307",
+    "requestId": "add2_8465749326_1780216318320"
   }
 ]
