@@ -530,5 +530,23 @@
     "ts": 1780216318320,
     "tsStr": "31/5/2026, 16:31:58",
     "status": "duplicate"
+  },
+  {
+    "id": "db_V4_822721362_1780226310774",
+    "type": "db_add",
+    "phone": "601168149757",
+    "ver": "V4",
+    "uid": "822721362",
+    "uname": "lupyy2012",
+    "name": "lutfi",
+    "ts": 1780226310774,
+    "tsStr": "31/5/2026, 19:18:30",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAIsmGocGPAlljIdvVbLlWy65N0btR0iAAIPEWsb237hVMJwbsEHgfu_AQADAgADeQADOwQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
