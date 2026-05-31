@@ -1971,5 +1971,16 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780226174514M6L",
+    "ts": 1780226174514,
+    "tsStr": "31/5/2026, 19:16:14",
+    "act": "SEMAK",
+    "uid": "822721362",
+    "uname": "lupyy2012",
+    "detail": "Semak: 601168149757",
+    "ver": "—",
+    "phone": "601168149757"
   }
 ]
