@@ -1982,5 +1982,16 @@
     "detail": "Semak: 601168149757",
     "ver": "—",
     "phone": "601168149757"
+  },
+  {
+    "id": "L178022627865579I",
+    "ts": 1780226278655,
+    "tsStr": "31/5/2026, 19:17:58",
+    "act": "START",
+    "uid": "822721362",
+    "uname": "lupyy2012",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
