@@ -2134,5 +2134,17 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780295031730DKZ",
+    "ts": 1780295031730,
+    "tsStr": "1/6/2026, 14:23:51",
+    "act": "DB_REQ",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Mohon tambah V3: 601164688055",
+    "ver": "V3",
+    "phone": "601164688055",
+    "requestId": "db_V3_8477166862_1780295030467"
   }
 ]
