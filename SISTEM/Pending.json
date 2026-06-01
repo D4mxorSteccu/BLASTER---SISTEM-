@@ -645,5 +645,23 @@
     "ts": 1780294775549,
     "tsStr": "1/6/2026, 14:19:35",
     "status": "pending"
+  },
+  {
+    "id": "db_V3_8477166862_1780295030467",
+    "type": "db_add",
+    "phone": "601164688055",
+    "ver": "V3",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "name": "𝙍𝙄𝙓𝙓𝙕𝙕 𝙎𝙏𝙊𝙍𝙀 #𝙎𝙏𝙍𝙈𝙔_15",
+    "ts": 1780295030467,
+    "tsStr": "1/6/2026, 14:23:50",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAIs22odJUUnt3A6R_DzbiQID_Br4DptAAIPEWsb6j7pVF9i-dIBi8iuAQADAgADeQADOwQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
