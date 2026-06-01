@@ -2159,5 +2159,16 @@
     "phone": "60138067443",
     "phone1": "601115205334",
     "requestId": "add2_1303593264_1780296270930"
+  },
+  {
+    "id": "L1780319052293NGL",
+    "ts": 1780319052293,
+    "tsStr": "1/6/2026, 21:04:12",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
