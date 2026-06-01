@@ -2249,5 +2249,16 @@
     "ver": "V4",
     "phone": "6287862048150",
     "requestId": "del_V4_6746319597_1780326108422"
+  },
+  {
+    "id": "L1780326117033ZFC",
+    "ts": 1780326117033,
+    "tsStr": "1/6/2026, 23:01:57",
+    "act": "START",
+    "uid": "1983044179",
+    "uname": "Kizxxgacor",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
