@@ -2181,5 +2181,16 @@
     "detail": "Semak: 601159315832",
     "ver": "—",
     "phone": "601159315832"
+  },
+  {
+    "id": "L1780319765250YU5",
+    "ts": 1780319765250,
+    "tsStr": "1/6/2026, 21:16:05",
+    "act": "START",
+    "uid": "1776051218",
+    "uname": "Zakriss",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
