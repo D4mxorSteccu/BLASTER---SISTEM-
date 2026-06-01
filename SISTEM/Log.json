@@ -2328,5 +2328,18 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780332337934SRN",
+    "ts": 1780332337934,
+    "tsStr": "2/6/2026, 00:45:37",
+    "act": "ADD2_REQ",
+    "uid": "8220023285",
+    "uname": "fiqueesenpai",
+    "detail": "Mohon nombor 2: 601130300767 → 601174540344",
+    "ver": "V4",
+    "phone": "601174540344",
+    "phone1": "601130300767",
+    "requestId": "add2_8220023285_1780332336501"
   }
 ]
