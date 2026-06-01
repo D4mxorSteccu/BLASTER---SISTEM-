@@ -675,5 +675,19 @@
     "byUname": "D4mxorx",
     "at": 1780295161854,
     "atStr": "1/6/2026, 14:26:01"
+  },
+  {
+    "id": "add2_1303593264_1780296270930",
+    "type": "add2",
+    "phone": "60138067443",
+    "phone1": "601115205334",
+    "ulasan": "Nombor lama Kena ban permanent 🗿",
+    "ver": "V4",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
+    "name": "A",
+    "ts": 1780296270930,
+    "tsStr": "1/6/2026, 14:44:30",
+    "status": "pending"
   }
 ]
