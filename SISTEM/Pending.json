@@ -693,5 +693,23 @@
     "byUname": "D4mxorx",
     "at": 1780301842711,
     "atStr": "1/6/2026, 16:17:22"
+  },
+  {
+    "id": "db_V4_1776051218_1780319956387",
+    "type": "db_add",
+    "phone": "60132691523",
+    "ver": "V4",
+    "uid": "1776051218",
+    "uname": "Zakriss",
+    "name": "⏤͟͟͞͞ 𝙏͢𝙧𝙞𝙥͢𝙡𝙚 𝙓 ☇ 𝙕𝙖𝙠𝙧𝙞𝙨𝙨",
+    "ts": 1780319956387,
+    "tsStr": "1/6/2026, 21:19:16",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAItJWodhh_Q1QyLdq7Hk3J-7nWWs9EjAALJEGsbaCfxVGENIcn6TqXfAQADAgADeQADOwQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
