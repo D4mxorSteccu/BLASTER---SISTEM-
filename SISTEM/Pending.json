@@ -664,12 +664,16 @@
     "name": "𝙍𝙄𝙓𝙓𝙕𝙕 𝙎𝙏𝙊𝙍𝙀 #𝙎𝙏𝙍𝙈𝙔_15",
     "ts": 1780295030467,
     "tsStr": "1/6/2026, 14:23:50",
-    "status": "pending",
+    "status": "approved",
     "country": "Malaysia",
     "proofFileId": "AgACAgUAAxkBAAIs22odJUUnt3A6R_DzbiQID_Br4DptAAIPEWsb6j7pVF9i-dIBi8iuAQADAgADeQADOwQ",
     "ulasan": null,
     "username": null,
     "storagePkg": null,
-    "isUpgrade": false
+    "isUpgrade": false,
+    "by": "7961446166",
+    "byUname": "D4mxorx",
+    "at": 1780295161854,
+    "atStr": "1/6/2026, 14:26:01"
   }
 ]
