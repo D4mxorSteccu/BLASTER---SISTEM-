@@ -2317,5 +2317,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780332262756ML2",
+    "ts": 1780332262756,
+    "tsStr": "2/6/2026, 00:44:22",
+    "act": "START",
+    "uid": "8220023285",
+    "uname": "fiqueesenpai",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
