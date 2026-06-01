@@ -596,5 +596,23 @@
     "byUname": "NishOnlyyy",
     "at": 1780276382064,
     "atStr": "1/6/2026, 09:13:02"
+  },
+  {
+    "id": "db_V3_1776051218_1780286988086",
+    "type": "db_add",
+    "phone": "60149655854",
+    "ver": "V3",
+    "uid": "1776051218",
+    "uname": "Zakriss",
+    "name": "⏤͟͟͞͞ 𝙏͢𝙧𝙞𝙥͢𝙡𝙚 𝙓 ☇ 𝙕𝙖𝙠𝙧𝙞𝙨𝙨",
+    "ts": 1780286988086,
+    "tsStr": "1/6/2026, 12:09:48",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAIsu2odBgIzub66YZmvlL3bnFFsBMExAAJQEGsbs3ToVN4-fsDvm_TLAQADAgADeQADOwQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
