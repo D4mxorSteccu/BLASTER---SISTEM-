@@ -2513,5 +2513,16 @@
     "ver": "V3",
     "phone": null,
     "teleId": "8465749326"
+  },
+  {
+    "id": "L1780375598929V7X",
+    "ts": 1780375598929,
+    "tsStr": "2/6/2026, 12:46:38",
+    "act": "GRP_DEL_RGRP",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Buang Reseller Group: -1003785170196",
+    "ver": "—",
+    "phone": null
   }
 ]
