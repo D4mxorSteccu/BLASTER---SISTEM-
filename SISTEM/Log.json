@@ -2385,5 +2385,16 @@
     "detail": "Semak: 60105221084",
     "ver": "—",
     "phone": "60105221084"
+  },
+  {
+    "id": "L17803726832487XK",
+    "ts": 1780372683248,
+    "tsStr": "2/6/2026, 11:58:03",
+    "act": "START",
+    "uid": "1776051218",
+    "uname": "Zakriss",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
