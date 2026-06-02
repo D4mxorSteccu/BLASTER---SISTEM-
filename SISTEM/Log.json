@@ -2419,5 +2419,17 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780374958162LTA",
+    "ts": 1780374958162,
+    "tsStr": "2/6/2026, 12:35:58",
+    "act": "DEL_REQ",
+    "uid": "8328146666",
+    "uname": "8328146666",
+    "detail": "Mohon padam V4: 60175956939",
+    "ver": "V4",
+    "phone": "60175956939",
+    "requestId": "del_V4_8328146666_1780374957176"
   }
 ]
