@@ -790,5 +790,18 @@
     "byUname": "D4mxorx",
     "at": 1780373171390,
     "atStr": "2/6/2026, 12:06:11"
+  },
+  {
+    "id": "del_V4_8328146666_1780374957176",
+    "type": "del_req",
+    "phone": "60175956939",
+    "ver": "V4",
+    "uid": "8328146666",
+    "uname": "8328146666",
+    "name": "MIDMAN SHAPET",
+    "ts": 1780374957176,
+    "tsStr": "2/6/2026, 12:35:57",
+    "status": "pending",
+    "country": "Malaysia"
   }
 ]
