@@ -2706,5 +2706,16 @@
     "detail": "moderators: 8479873676",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780411005661IOH",
+    "ts": 1780411005661,
+    "tsStr": "2/6/2026, 22:36:45",
+    "act": "START",
+    "uid": "8479873676",
+    "uname": "—",
+    "detail": "Login: MODERATOR",
+    "ver": "—",
+    "phone": null
   }
 ]
