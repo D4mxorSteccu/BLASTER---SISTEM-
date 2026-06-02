@@ -2548,5 +2548,16 @@
     "ver": "V3",
     "phone": null,
     "teleId": "8465749326"
+  },
+  {
+    "id": "L1780375708473TDC",
+    "ts": 1780375708473,
+    "tsStr": "2/6/2026, 12:48:28",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
