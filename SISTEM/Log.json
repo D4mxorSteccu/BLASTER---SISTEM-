@@ -2615,5 +2615,17 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780407498511OYC",
+    "ts": 1780407498511,
+    "tsStr": "2/6/2026, 21:38:18",
+    "act": "DB_REQ",
+    "uid": "1776051218",
+    "uname": "Zakriss",
+    "detail": "Mohon tambah V3: 601165250192",
+    "ver": "V3",
+    "phone": "601165250192",
+    "requestId": "db_V3_1776051218_1780407496442"
   }
 ]
