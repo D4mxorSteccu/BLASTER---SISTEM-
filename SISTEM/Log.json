@@ -2660,5 +2660,18 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780409814022AO0",
+    "ts": 1780409814022,
+    "tsStr": "2/6/2026, 22:16:54",
+    "act": "ADD2_REQ",
+    "uid": "8273587591",
+    "uname": "flacko17",
+    "detail": "Mohon nombor 2: 601161655670 → 60187914991",
+    "ver": "V4",
+    "phone": "60187914991",
+    "phone1": "601161655670",
+    "requestId": "add2_8273587591_1780409812447"
   }
 ]
