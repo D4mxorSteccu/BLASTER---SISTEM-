@@ -2740,5 +2740,17 @@
     "ver": "V3",
     "phone": null,
     "teleId": "1776051218"
+  },
+  {
+    "id": "L1780423405407ZFS",
+    "ts": 1780423405407,
+    "tsStr": "3/6/2026, 02:03:25",
+    "act": "AKSES_DEL",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Buang akses V4: 1776051218",
+    "ver": "V4",
+    "phone": null,
+    "teleId": "1776051218"
   }
 ]
