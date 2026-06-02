@@ -2524,5 +2524,17 @@
     "detail": "Buang Reseller Group: -1003785170196",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780375614121DTR",
+    "ts": 1780375614121,
+    "tsStr": "2/6/2026, 12:46:54",
+    "act": "AKSES_DEL",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Buang akses V3: 8465749326",
+    "ver": "V3",
+    "phone": null,
+    "teleId": "8465749326"
   }
 ]
