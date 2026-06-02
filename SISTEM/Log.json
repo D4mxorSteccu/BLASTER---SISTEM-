@@ -2582,5 +2582,16 @@
     "ver": "V4",
     "phone": "601169706654",
     "requestId": "db_V4_8465749326_1780386152868"
+  },
+  {
+    "id": "L1780398350413XCH",
+    "ts": 1780398350413,
+    "tsStr": "2/6/2026, 19:05:50",
+    "act": "START",
+    "uid": "6746319597",
+    "uname": "acapzx123",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
