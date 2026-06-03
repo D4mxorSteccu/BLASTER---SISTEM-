@@ -2812,5 +2812,16 @@
     "phone": "601169788687",
     "phone1": "601159190715",
     "requestId": "add2_8477166862_1780481244749"
+  },
+  {
+    "id": "L1780481349419BSZ",
+    "ts": 1780481349419,
+    "tsStr": "3/6/2026, 18:09:09",
+    "act": "START",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
