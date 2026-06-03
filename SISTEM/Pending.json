@@ -994,12 +994,16 @@
     "name": "Stella",
     "ts": 1780490070873,
     "tsStr": "3/6/2026, 20:34:30",
-    "status": "pending",
+    "status": "approved",
     "country": "Malaysia",
     "proofFileId": "AgACAgUAAxkBAAIukmogHyYnE5u5f0jS5IcDQ2Rs2XXRAAJIDmsb-lsJVb8ee1QIowVUAQADAgADeQADOwQ",
     "ulasan": null,
     "username": null,
     "storagePkg": null,
-    "isUpgrade": false
+    "isUpgrade": false,
+    "by": "7961446166",
+    "byUname": "Official_Support_Binance404",
+    "at": 1780490138745,
+    "atStr": "3/6/2026, 20:35:38"
   }
 ]
