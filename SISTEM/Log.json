@@ -2857,5 +2857,17 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780490072579QJU",
+    "ts": 1780490072579,
+    "tsStr": "3/6/2026, 20:34:32",
+    "act": "DB_REQ",
+    "uid": "7717935018",
+    "uname": "7717935018",
+    "detail": "Mohon tambah V4: 60132236031",
+    "ver": "V4",
+    "phone": "60132236031",
+    "requestId": "db_V4_7717935018_1780490070873"
   }
 ]
