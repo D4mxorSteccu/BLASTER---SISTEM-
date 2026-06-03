@@ -2823,5 +2823,17 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17804813889279AM",
+    "ts": 1780481388927,
+    "tsStr": "3/6/2026, 18:09:48",
+    "act": "DEL_REQ",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Mohon padam V4: 601169788687",
+    "ver": "V4",
+    "phone": "601169788687",
+    "requestId": "del_V4_8477166862_1780481387373"
   }
 ]
