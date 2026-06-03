@@ -2835,5 +2835,16 @@
     "ver": "V4",
     "phone": "601169788687",
     "requestId": "del_V4_8477166862_1780481387373"
+  },
+  {
+    "id": "L1780484243910U0Q",
+    "ts": 1780484243910,
+    "tsStr": "3/6/2026, 18:57:23",
+    "act": "START",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
