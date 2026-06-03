@@ -2752,5 +2752,17 @@
     "ver": "V4",
     "phone": null,
     "teleId": "1776051218"
+  },
+  {
+    "id": "L1780452390909LUX",
+    "ts": 1780452390909,
+    "tsStr": "3/6/2026, 10:06:30",
+    "act": "DB_REQ",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "detail": "Mohon tambah V4: 600198101468",
+    "ver": "V4",
+    "phone": "600198101468",
+    "requestId": "db_V4_7961446166_1780452389638"
   }
 ]
