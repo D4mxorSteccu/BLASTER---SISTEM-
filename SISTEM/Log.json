@@ -2787,5 +2787,17 @@
     "ver": "V4",
     "phone": null,
     "teleId": "1872132577"
+  },
+  {
+    "id": "L1780454833509A3K",
+    "ts": 1780454833509,
+    "tsStr": "3/6/2026, 10:47:13",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "detail": "Tambah akses V3: 1872132577",
+    "ver": "V3",
+    "phone": null,
+    "teleId": "1872132577"
   }
 ]
