@@ -1005,5 +1005,19 @@
     "byUname": "Official_Support_Binance404",
     "at": 1780490138745,
     "atStr": "3/6/2026, 20:35:38"
+  },
+  {
+    "id": "add2_888026224_1780491362915",
+    "type": "add2",
+    "phone": "601168553138",
+    "phone1": "601169874273",
+    "ulasan": null,
+    "ver": "V4",
+    "uid": "888026224",
+    "uname": "amrashrff1",
+    "name": "m",
+    "ts": 1780491362915,
+    "tsStr": "3/6/2026, 20:56:02",
+    "status": "pending"
   }
 ]
