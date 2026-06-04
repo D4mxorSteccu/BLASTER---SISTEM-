@@ -3090,5 +3090,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780571558264MK0",
+    "ts": 1780571558264,
+    "tsStr": "4/6/2026, 19:12:38",
+    "act": "ROLE_ADD",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "detail": "kings: 8387602613",
+    "ver": "—",
+    "phone": null
   }
 ]
