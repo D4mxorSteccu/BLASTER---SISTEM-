@@ -2962,5 +2962,17 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780539933437BYE",
+    "ts": 1780539933437,
+    "tsStr": "4/6/2026, 10:25:33",
+    "act": "DB_REQ",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "detail": "Mohon tambah V4: 60176041454",
+    "ver": "V4",
+    "phone": "60176041454",
+    "requestId": "db_V4_7961446166_1780539932249"
   }
 ]
