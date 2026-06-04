@@ -3237,5 +3237,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780587776635D1N",
+    "ts": 1780587776635,
+    "tsStr": "4/6/2026, 23:42:56",
+    "act": "START",
+    "uid": "8465749326",
+    "uname": "marmy5",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
