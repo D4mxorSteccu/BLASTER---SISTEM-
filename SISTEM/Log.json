@@ -3123,5 +3123,16 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780571661969TR6",
+    "ts": 1780571661969,
+    "tsStr": "4/6/2026, 19:14:21",
+    "act": "START",
+    "uid": "8387602613",
+    "uname": "—",
+    "detail": "Login: KING",
+    "ver": "—",
+    "phone": null
   }
 ]
