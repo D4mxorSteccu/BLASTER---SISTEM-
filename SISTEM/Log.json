@@ -3145,5 +3145,16 @@
     "detail": "Login: KING",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780572626366T87",
+    "ts": 1780572626366,
+    "tsStr": "4/6/2026, 19:30:26",
+    "act": "FORCE_SYNC",
+    "uid": "8387602613",
+    "uname": "8387602613",
+    "detail": "V3:33 V4:191 V5:4",
+    "ver": "—",
+    "phone": null
   }
 ]
