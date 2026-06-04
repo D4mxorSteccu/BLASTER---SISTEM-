@@ -3260,5 +3260,16 @@
     "ver": "V3",
     "phone": "6283849420121",
     "requestId": "db_V3_8465749326_1780587798628"
+  },
+  {
+    "id": "L1780599903927LD7",
+    "ts": 1780599903927,
+    "tsStr": "5/6/2026, 03:05:03",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
