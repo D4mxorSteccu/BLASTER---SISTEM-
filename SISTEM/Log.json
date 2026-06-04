@@ -3101,5 +3101,16 @@
     "detail": "kings: 8387602613",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780571567558ZWK",
+    "ts": 1780571567558,
+    "tsStr": "4/6/2026, 19:12:47",
+    "act": "ROLE_ADD",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "detail": "moderators: 8387602613",
+    "ver": "—",
+    "phone": null
   }
 ]
