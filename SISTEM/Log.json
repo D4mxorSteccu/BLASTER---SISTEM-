@@ -3204,5 +3204,16 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780584731992N8S",
+    "ts": 1780584731992,
+    "tsStr": "4/6/2026, 22:52:11",
+    "act": "SEMAK",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Semak: 601126196955",
+    "ver": "—",
+    "phone": "601126196955"
   }
 ]
