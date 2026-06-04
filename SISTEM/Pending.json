@@ -1168,6 +1168,10 @@
     "name": ".",
     "ts": 1780568559617,
     "tsStr": "4/6/2026, 18:22:39",
-    "status": "pending"
+    "status": "approved",
+    "by": "7961446166",
+    "byUname": "Official_Support_Binance404",
+    "at": 1780569716704,
+    "atStr": "4/6/2026, 18:41:56"
   }
 ]
