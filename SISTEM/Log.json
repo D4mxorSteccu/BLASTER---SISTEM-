@@ -2951,5 +2951,16 @@
     "ver": "V4",
     "phone": "60178169409",
     "requestId": "db_V4_7961446166_1780510175935"
+  },
+  {
+    "id": "L1780539890054LFX",
+    "ts": 1780539890054,
+    "tsStr": "4/6/2026, 10:24:50",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
