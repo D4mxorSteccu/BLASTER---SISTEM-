@@ -3066,5 +3066,18 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780568561088S2Q",
+    "ts": 1780568561088,
+    "tsStr": "4/6/2026, 18:22:41",
+    "act": "ADD2_REQ",
+    "uid": "6746319597",
+    "uname": "acapzx123",
+    "detail": "Mohon nombor 2: 601169706654 → 60166304263",
+    "ver": "V4",
+    "phone": "60166304263",
+    "phone1": "601169706654",
+    "requestId": "add2_6746319597_1780568559617"
   }
 ]
