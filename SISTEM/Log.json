@@ -3134,5 +3134,16 @@
     "detail": "Login: KING",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780572600165I7A",
+    "ts": 1780572600165,
+    "tsStr": "4/6/2026, 19:30:00",
+    "act": "START",
+    "uid": "8387602613",
+    "uname": "—",
+    "detail": "Login: KING",
+    "ver": "—",
+    "phone": null
   }
 ]
