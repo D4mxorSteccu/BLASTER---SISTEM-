@@ -3319,5 +3319,16 @@
     "phone": "601159299337",
     "phone1": "601159315832",
     "requestId": "add2_822721362_1780644718067"
+  },
+  {
+    "id": "L1780648287139EXS",
+    "ts": 1780648287139,
+    "tsStr": "5/6/2026, 16:31:27",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
