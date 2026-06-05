@@ -1249,5 +1249,23 @@
     "byUname": "8387602613",
     "at": 1780644975716,
     "atStr": "5/6/2026, 15:36:15"
+  },
+  {
+    "id": "db_V4_7961446166_1780669356294",
+    "type": "db_add",
+    "phone": "63773848499",
+    "ver": "V4",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "name": "SUPPORT BINANCE",
+    "ts": 1780669356294,
+    "tsStr": "5/6/2026, 22:22:36",
+    "status": "pending",
+    "country": "Filipina",
+    "proofFileId": "AgACAgUAAxkBAAIv12oi1rUB46Xdn1S7UaH284UBusLNAAJkEWsbFSIYVdRNL9oL2b1hAQADAgADdwADOwQ",
+    "ulasan": "Oi",
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
