@@ -1293,5 +1293,19 @@
     "byUname": "NishOnlyyy",
     "at": 1780730604511,
     "atStr": "6/6/2026, 15:23:24"
+  },
+  {
+    "id": "add2_7961446166_1780731179162",
+    "type": "add2",
+    "phone": "60179126256",
+    "phone1": "6283849420121",
+    "ulasan": null,
+    "ver": "V3",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "name": "SUPPORT BINANCE",
+    "ts": 1780731179163,
+    "tsStr": "6/6/2026, 15:32:59",
+    "status": "pending"
   }
 ]
