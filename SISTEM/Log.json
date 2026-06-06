@@ -3444,5 +3444,16 @@
     "detail": "Login: KING",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780723727837T0P",
+    "ts": 1780723727837,
+    "tsStr": "6/6/2026, 13:28:47",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
