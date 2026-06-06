@@ -3399,5 +3399,16 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17807223665104FB",
+    "ts": 1780722366510,
+    "tsStr": "6/6/2026, 13:06:06",
+    "act": "START",
+    "uid": "7922481201",
+    "uname": "RitxzEncem",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
