@@ -3422,5 +3422,16 @@
     "ver": "V3",
     "phone": null,
     "teleId": "7922481201"
+  },
+  {
+    "id": "L178072247313000X",
+    "ts": 1780722473130,
+    "tsStr": "6/6/2026, 13:07:53",
+    "act": "START",
+    "uid": "7922481201",
+    "uname": "RitxzEncem",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
