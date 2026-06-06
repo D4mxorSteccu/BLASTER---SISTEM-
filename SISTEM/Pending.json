@@ -1271,5 +1271,23 @@
     "byUname": "Official_Support_Binance404",
     "at": 1780669367530,
     "atStr": "5/6/2026, 22:22:47"
+  },
+  {
+    "id": "db_V3_7922481201_1780730353228",
+    "type": "db_add",
+    "phone": "601163464035",
+    "ver": "V3",
+    "uid": "7922481201",
+    "uname": "RitxzEncem",
+    "name": "HarithEncem",
+    "ts": 1780730353228,
+    "tsStr": "6/6/2026, 15:19:13",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAIwU2ojyasXOilGwHFdGlloIZRM_jF0AAKjD2sbNO8gVX3xDzw8iFvgAQADAgADeQADOwQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
