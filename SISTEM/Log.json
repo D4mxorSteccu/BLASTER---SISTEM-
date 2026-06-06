@@ -3376,5 +3376,17 @@
     "ver": "V4",
     "phone": "63773848499",
     "requestId": "db_V4_7961446166_1780669356294"
+  },
+  {
+    "id": "L1780721972185KAH",
+    "ts": 1780721972185,
+    "tsStr": "6/6/2026, 12:59:32",
+    "act": "AKSES_ADD",
+    "uid": "8206532657",
+    "uname": "NishOnlyyy",
+    "detail": "Tambah akses V4: 7922481201",
+    "ver": "V4",
+    "phone": null,
+    "teleId": "7922481201"
   }
 ]
