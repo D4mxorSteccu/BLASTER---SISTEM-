@@ -3586,5 +3586,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780759185307ZES",
+    "ts": 1780759185307,
+    "tsStr": "6/6/2026, 23:19:45",
+    "act": "SEMAK",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "detail": "Semak: 601167229731",
+    "ver": "—",
+    "phone": "601167229731"
   }
 ]
