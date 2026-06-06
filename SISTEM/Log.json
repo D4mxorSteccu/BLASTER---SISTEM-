@@ -3503,5 +3503,18 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780731180664L7Y",
+    "ts": 1780731180664,
+    "tsStr": "6/6/2026, 15:33:00",
+    "act": "ADD2_REQ",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "detail": "Mohon nombor 2: 6283849420121 → 60179126256",
+    "ver": "V3",
+    "phone": "60179126256",
+    "phone1": "6283849420121",
+    "requestId": "add2_7961446166_1780731179162"
   }
 ]
