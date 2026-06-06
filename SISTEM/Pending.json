@@ -1306,6 +1306,10 @@
     "name": "SUPPORT BINANCE",
     "ts": 1780731179163,
     "tsStr": "6/6/2026, 15:32:59",
-    "status": "pending"
+    "status": "approved",
+    "by": "7961446166",
+    "byUname": "Official_Support_Binance404",
+    "at": 1780731183952,
+    "atStr": "6/6/2026, 15:33:03"
   }
 ]
