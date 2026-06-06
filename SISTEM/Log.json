@@ -3455,5 +3455,18 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17807238035358S6",
+    "ts": 1780723803535,
+    "tsStr": "6/6/2026, 13:30:03",
+    "act": "BROADCAST",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "detail": "Broadcast ke 33 pengguna",
+    "ver": "—",
+    "phone": null,
+    "ok": 33,
+    "fail": 42
   }
 ]
