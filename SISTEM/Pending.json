@@ -1329,5 +1329,19 @@
     "byUname": "Official_Support_Binance404",
     "at": 1780744366771,
     "atStr": "6/6/2026, 19:12:46"
+  },
+  {
+    "id": "add2_7961446166_1780759234067",
+    "type": "add2",
+    "phone": "601167229731",
+    "phone1": "601130538675",
+    "ulasan": null,
+    "ver": "V4",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "name": "SUPPORT BINANCE",
+    "ts": 1780759234067,
+    "tsStr": "6/6/2026, 23:20:34",
+    "status": "pending"
   }
 ]
