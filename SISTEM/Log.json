@@ -3410,5 +3410,17 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17807224311555NJ",
+    "ts": 1780722431155,
+    "tsStr": "6/6/2026, 13:07:11",
+    "act": "AKSES_ADD",
+    "uid": "8206532657",
+    "uname": "NishOnlyyy",
+    "detail": "Tambah akses V3: 7922481201",
+    "ver": "V3",
+    "phone": null,
+    "teleId": "7922481201"
   }
 ]
