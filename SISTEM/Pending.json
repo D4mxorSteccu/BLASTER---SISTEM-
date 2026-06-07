@@ -1362,8 +1362,10 @@
     "panelUser": null,
     "panelPass": null,
     "panelPkg": null,
-    "status": "pending",
+    "status": "rejected",
     "ts": 1780801298373,
-    "tsStr": "7/6/2026, 11:01:38"
+    "tsStr": "7/6/2026, 11:01:38",
+    "approvedBy": "7961446166",
+    "approvedAt": 1780801312806
   }
 ]
