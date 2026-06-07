@@ -3700,5 +3700,16 @@
     "detail": "601112614932 V4",
     "ver": "V4",
     "phone": "601112614932"
+  },
+  {
+    "id": "L1780873019465U5F",
+    "ts": 1780873019465,
+    "tsStr": "8/6/2026, 06:56:59",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "Official_Support_Binance404",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
