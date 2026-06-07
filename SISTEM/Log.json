@@ -3711,5 +3711,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17808731197164QS",
+    "ts": 1780873119716,
+    "tsStr": "8/6/2026, 06:58:39",
+    "act": "START",
+    "uid": "1825733639",
+    "uname": "Official_Support_Binance36",
+    "detail": "Login: OWNER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
