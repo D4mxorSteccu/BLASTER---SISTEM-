@@ -1407,5 +1407,23 @@
     "tsStr": "7/6/2026, 16:50:24",
     "approvedBy": "7961446166",
     "approvedAt": 1780822228797
+  },
+  {
+    "id": "db_V4_1825733639_1780873189451",
+    "type": "db_add",
+    "phone": "601825733639",
+    "ver": "V4",
+    "uid": "1825733639",
+    "uname": "Official_Support_Binance36",
+    "name": "SUPPORT BINANCE",
+    "ts": 1780873189452,
+    "tsStr": "8/6/2026, 06:59:49",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAIBv2ol98NaZaO-E1RA00HhQ41z5VdBAALfDmsbTH4wVUT7mMJm_TAJAQADAgADeQADOwQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
