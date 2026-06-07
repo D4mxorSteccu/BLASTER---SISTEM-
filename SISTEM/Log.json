@@ -3757,5 +3757,16 @@
     "ver": "V4",
     "phone": "601825733639",
     "requestId": "db_V4_1825733639_1780873189451"
+  },
+  {
+    "id": "L178087479704752M",
+    "ts": 1780874797047,
+    "tsStr": "8/6/2026, 07:26:37",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
