@@ -1387,5 +1387,23 @@
     "tsStr": "7/6/2026, 11:03:04",
     "approvedBy": "7961446166",
     "approvedAt": 1780801389504
+  },
+  {
+    "id": "17808222238543LGQ",
+    "type": "db_add",
+    "jenis": "db_add",
+    "userId": "7961446166",
+    "uname": "@Official_Support_Binance404",
+    "phone": "601112614932",
+    "ver": "V4",
+    "country": "Malaysia",
+    "ulasan": "Yy",
+    "buktiFileId": "AgACAgUAAxkBAAIBb2ok3tcK3M36sXzTPMWS8Y-SFVoQAAKZD2sbWHUpVVVYRO7UgmaIAQADAgADeQADOwQ",
+    "panelUser": null,
+    "panelPass": null,
+    "panelPkg": null,
+    "status": "pending",
+    "ts": 1780822224160,
+    "tsStr": "7/6/2026, 16:50:24"
   }
 ]
