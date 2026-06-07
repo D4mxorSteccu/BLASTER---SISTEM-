@@ -3733,5 +3733,17 @@
     "detail": "Login: OWNER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1780873191421M2V",
+    "ts": 1780873191421,
+    "tsStr": "8/6/2026, 06:59:51",
+    "act": "DB_REQ",
+    "uid": "1825733639",
+    "uname": "Official_Support_Binance36",
+    "detail": "Mohon tambah V4: 601825733639",
+    "ver": "V4",
+    "phone": "601825733639",
+    "requestId": "db_V4_1825733639_1780873189451"
   }
 ]
