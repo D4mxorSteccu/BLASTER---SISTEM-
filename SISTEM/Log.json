@@ -3949,5 +3949,17 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17809345578955F3",
+    "ts": 1780934557895,
+    "tsStr": "9/6/2026, 24:02:37",
+    "act": "DEL_REQ",
+    "uid": "6746319597",
+    "uname": "acapzx123",
+    "detail": "Mohon padam V4: 60173570788",
+    "ver": "V4",
+    "phone": "60173570788",
+    "requestId": "del_V4_6746319597_1780934556763"
   }
 ]
