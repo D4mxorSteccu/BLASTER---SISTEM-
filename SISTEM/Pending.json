@@ -1451,5 +1451,23 @@
     "byUname": "D4mxorx",
     "at": 1780908554994,
     "atStr": "8/6/2026, 16:49:14"
+  },
+  {
+    "id": "db_V4_7961446166_1780910151588",
+    "type": "db_add",
+    "phone": "60104391337",
+    "ver": "V4",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "name": "𝐈'𝐦 || 𝐃𝟒𝐌𝐗𝐎𝐑 「❗」",
+    "ts": 1780910151588,
+    "tsStr": "8/6/2026, 17:15:51",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAIB2WomgfWONyr6b3dtrJ3euXRppPI6AAJ1EGsbb5w5VWpqBdxYOftkAQADAgADdwADOwQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
