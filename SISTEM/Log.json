@@ -3838,5 +3838,16 @@
     "detail": "Padam V4: 60104391337",
     "ver": "V4",
     "phone": "60104391337"
+  },
+  {
+    "id": "L17809107241075N9",
+    "ts": 1780910724107,
+    "tsStr": "8/6/2026, 17:25:24",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
