@@ -4018,5 +4018,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781005261125SOP",
+    "ts": 1781005261125,
+    "tsStr": "9/6/2026, 19:41:01",
+    "act": "START",
+    "uid": "6746319597",
+    "uname": "acapzx123",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
