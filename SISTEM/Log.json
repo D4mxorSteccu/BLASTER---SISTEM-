@@ -4368,5 +4368,16 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781094198431NKZ",
+    "ts": 1781094198431,
+    "tsStr": "10/6/2026, 20:23:18",
+    "act": "START",
+    "uid": "8206532657",
+    "uname": "NishOnlyyy",
+    "detail": "Login: OWNER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
