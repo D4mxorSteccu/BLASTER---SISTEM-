@@ -4379,5 +4379,16 @@
     "detail": "Login: OWNER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781095492173AOV",
+    "ts": 1781095492173,
+    "tsStr": "10/6/2026, 20:44:52",
+    "act": "START",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
