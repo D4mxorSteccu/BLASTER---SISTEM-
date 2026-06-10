@@ -4287,5 +4287,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L178108127538539L",
+    "ts": 1781081275385,
+    "tsStr": "10/6/2026, 16:47:55",
+    "act": "START",
+    "uid": "8387602613",
+    "uname": "—",
+    "detail": "Login: KING",
+    "ver": "—",
+    "phone": null
   }
 ]
