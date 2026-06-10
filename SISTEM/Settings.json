@@ -1,6 +1,6 @@
 {
   "groupOnly": false,
-  "privateOnly": true,
+  "privateOnly": false,
   "panelEnabled": false,
   "autoBackup": false
 }
