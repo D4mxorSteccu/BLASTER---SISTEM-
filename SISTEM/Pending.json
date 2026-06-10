@@ -1639,12 +1639,16 @@
     "name": "⏤͟͟ 𝗧͢𝗿𝗶𝗽͜𝗹𝗲 𝗫 ☇ 𝗥𝗶𝘅𝘅𝘇𝘇(𝐎𝐩𝐞𝐧 𝐎𝐭𝐚𝐱)",
     "ts": 1781095606523,
     "tsStr": "10/6/2026, 20:46:46",
-    "status": "pending",
+    "status": "approved",
     "country": "Malaysia",
     "proofFileId": "AgACAgUAAxkBAAIyXWopXAJtV9eXNzKeN9ozzUqroVvhAAJOEGsbBo1RVRpbEldBo0B3AQADAgADeQADOwQ",
     "ulasan": null,
     "username": null,
     "storagePkg": null,
-    "isUpgrade": false
+    "isUpgrade": false,
+    "by": "8206532657",
+    "byUname": "NishOnlyyy",
+    "at": 1781095653916,
+    "atStr": "10/6/2026, 20:47:33"
   }
 ]
