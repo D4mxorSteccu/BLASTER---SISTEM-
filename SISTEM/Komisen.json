@@ -1,12 +1,18 @@
 {
   "7961446166": {
-    "baki": 2,
+    "baki": 4,
     "sejarah": [
       {
         "jenis": "tambah",
         "jumlah": 2,
         "sebab": "— [manual oleh @D4mxorx]",
         "masa": "8/6/2026, 23:04:59"
+      },
+      {
+        "jenis": "tambah",
+        "jumlah": 2,
+        "sebab": "p [manual oleh @D4mxorx]",
+        "masa": "10/6/2026, 21:00:31"
       }
     ]
   },
