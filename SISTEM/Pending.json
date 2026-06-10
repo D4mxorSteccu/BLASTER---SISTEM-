@@ -1650,5 +1650,23 @@
     "byUname": "NishOnlyyy",
     "at": 1781095653916,
     "atStr": "10/6/2026, 20:47:33"
+  },
+  {
+    "id": "db_V4_1303593264_1781098106399",
+    "type": "db_add",
+    "phone": "447848174882",
+    "ver": "V4",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
+    "name": "A",
+    "ts": 1781098106399,
+    "tsStr": "10/6/2026, 21:28:26",
+    "status": "pending",
+    "country": "UK",
+    "proofFileId": "AgACAgUAAxkBAAIyjGopZe6XAXt8ey7gpz-vAAHIOF3dyQACRhFrG8HUSFXBgAzH7oOI9QEAAwIAA3kAAzsE",
+    "ulasan": "New buyer",
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
