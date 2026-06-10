@@ -4155,5 +4155,16 @@
     "detail": "Sync 2 group: 52 ok, 55 fail",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781066476659LJE",
+    "ts": 1781066476659,
+    "tsStr": "10/6/2026, 12:41:16",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
