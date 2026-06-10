@@ -1628,5 +1628,23 @@
     "byUname": "D4mxorx",
     "at": 1781087747637,
     "atStr": "10/6/2026, 18:35:47"
+  },
+  {
+    "id": "db_V4_8477166862_1781095606523",
+    "type": "db_add",
+    "phone": "601127925968",
+    "ver": "V4",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "name": "⏤͟͟ 𝗧͢𝗿𝗶𝗽͜𝗹𝗲 𝗫 ☇ 𝗥𝗶𝘅𝘅𝘇𝘇(𝐎𝐩𝐞𝐧 𝐎𝐭𝐚𝐱)",
+    "ts": 1781095606523,
+    "tsStr": "10/6/2026, 20:46:46",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAIyXWopXAJtV9eXNzKeN9ozzUqroVvhAAJOEGsbBo1RVRpbEldBo0B3AQADAgADeQADOwQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
