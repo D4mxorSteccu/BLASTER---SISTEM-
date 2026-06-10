@@ -4298,5 +4298,16 @@
     "detail": "Login: KING",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781083710301FFJ",
+    "ts": 1781083710301,
+    "tsStr": "10/6/2026, 17:28:30",
+    "act": "START",
+    "uid": "8112732289",
+    "uname": "Kael_V1",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
