@@ -4254,5 +4254,16 @@
     "detail": "Sync 2 group: 24 ok, 83 fail",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17810716577093DT",
+    "ts": 1781071657710,
+    "tsStr": "10/6/2026, 14:07:37",
+    "act": "ANTI_CULIK_DETECT",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Group: 𝐒𝐄𝐑𝐕𝐄𝐑 𝐃𝟒𝐌𝐗𝐎𝐑!! ↯ (-1003755924976)",
+    "ver": "—",
+    "phone": null
   }
 ]
