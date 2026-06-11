@@ -1672,5 +1672,23 @@
     "byUname": "8387602613",
     "at": 1781098127163,
     "atStr": "10/6/2026, 21:28:47"
+  },
+  {
+    "id": "db_V4_822721362_1781145826850",
+    "type": "db_add",
+    "phone": "60166142480",
+    "ver": "V4",
+    "uid": "822721362",
+    "uname": "lupyy2012",
+    "name": "lutfi",
+    "ts": 1781145826850,
+    "tsStr": "11/6/2026, 10:43:46",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAIyqGoqIBR495d_xCExLUH7Mqe4mSslAAIQE2sba0xRVaqQoDlVlIPYAQADAgADeQADOwQ",
+    "ulasan": "cust hutang singgit",
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
