@@ -4561,5 +4561,16 @@
     "detail": "owners_v5: 5652430430",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781189021573LPT",
+    "ts": 1781189021573,
+    "tsStr": "11/6/2026, 22:43:41",
+    "act": "ROLE_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "moderators: 5652430430",
+    "ver": "—",
+    "phone": null
   }
 ]
