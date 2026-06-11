@@ -4528,5 +4528,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17811878042576QU",
+    "ts": 1781187804257,
+    "tsStr": "11/6/2026, 22:23:24",
+    "act": "ROLE_DEL",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "owners_v4: 1825733639",
+    "ver": "—",
+    "phone": null
   }
 ]
