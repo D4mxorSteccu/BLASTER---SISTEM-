@@ -1712,5 +1712,23 @@
     "byUname": "NishOnlyyy",
     "at": 1781183486184,
     "atStr": "11/6/2026, 21:11:26"
+  },
+  {
+    "id": "db_V4_822721362_1781223943513",
+    "type": "db_add",
+    "phone": "601111368023",
+    "ver": "V4",
+    "uid": "822721362",
+    "uname": "lupyy2012",
+    "name": "lutfi",
+    "ts": 1781223943513,
+    "tsStr": "12/6/2026, 08:25:43",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAIy-WorT8MTLwqiZM5r-G1ZEMDDh8nuAAJlEWsba0xhVYhp16EJ74TeAQADAgADeQADPAQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
