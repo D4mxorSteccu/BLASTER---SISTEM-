@@ -4710,5 +4710,16 @@
     "detail": "owners_v5: 8387602613",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L178125144852931Z",
+    "ts": 1781251448529,
+    "tsStr": "12/6/2026, 16:04:08",
+    "act": "ROLE_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "owners_v4: 8387602613",
+    "ver": "—",
+    "phone": null
   }
 ]
