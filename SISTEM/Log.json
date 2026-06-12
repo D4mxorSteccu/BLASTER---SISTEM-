@@ -4628,5 +4628,17 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L178125135419708N",
+    "ts": 1781251354197,
+    "tsStr": "12/6/2026, 16:02:34",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Tambah akses V5: 5652430430",
+    "ver": "V5",
+    "phone": null,
+    "teleId": "5652430430"
   }
 ]
