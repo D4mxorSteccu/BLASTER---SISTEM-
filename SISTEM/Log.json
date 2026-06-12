@@ -4688,5 +4688,16 @@
     "ver": "V3",
     "phone": null,
     "teleId": "8387602613"
+  },
+  {
+    "id": "L1781251415083AEH",
+    "ts": 1781251415083,
+    "tsStr": "12/6/2026, 16:03:35",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
