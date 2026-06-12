@@ -4834,5 +4834,17 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781265357982GJY",
+    "ts": 1781265357982,
+    "tsStr": "12/6/2026, 19:55:57",
+    "act": "DB_REQ",
+    "uid": "8454034658",
+    "uname": "minimalejapakeotak",
+    "detail": "Mohon tambah V4: 60173405887",
+    "ver": "V4",
+    "phone": "60173405887",
+    "requestId": "db_V4_8454034658_1781265357056"
   }
 ]
