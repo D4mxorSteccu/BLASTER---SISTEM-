@@ -4765,5 +4765,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17812614811024AM",
+    "ts": 1781261481102,
+    "tsStr": "12/6/2026, 18:51:21",
+    "act": "START",
+    "uid": "7922481201",
+    "uname": "RitxzEncem",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
