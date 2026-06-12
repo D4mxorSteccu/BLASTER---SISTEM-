@@ -4652,5 +4652,17 @@
     "ver": "V4",
     "phone": null,
     "teleId": "5652430430"
+  },
+  {
+    "id": "L1781251396362513",
+    "ts": 1781251396362,
+    "tsStr": "12/6/2026, 16:03:16",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Tambah akses V5: 8387602613",
+    "ver": "V5",
+    "phone": null,
+    "teleId": "8387602613"
   }
 ]
