@@ -4811,5 +4811,17 @@
     "ver": "V4",
     "phone": null,
     "teleId": "8454034658"
+  },
+  {
+    "id": "L1781264152439PQB",
+    "ts": 1781264152439,
+    "tsStr": "12/6/2026, 19:35:52",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Tambah akses V3: 8454034658",
+    "ver": "V3",
+    "phone": null,
+    "teleId": "8454034658"
   }
 ]
