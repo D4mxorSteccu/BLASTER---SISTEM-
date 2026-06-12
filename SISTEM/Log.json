@@ -4823,5 +4823,16 @@
     "ver": "V3",
     "phone": null,
     "teleId": "8454034658"
+  },
+  {
+    "id": "L1781264414229GEC",
+    "ts": 1781264414229,
+    "tsStr": "12/6/2026, 19:40:14",
+    "act": "START",
+    "uid": "8454034658",
+    "uname": "minimalejapakeotak",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
