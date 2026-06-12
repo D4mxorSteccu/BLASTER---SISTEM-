@@ -4799,5 +4799,17 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781264143850SLI",
+    "ts": 1781264143850,
+    "tsStr": "12/6/2026, 19:35:43",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Tambah akses V4: 8454034658",
+    "ver": "V4",
+    "phone": null,
+    "teleId": "8454034658"
   }
 ]
