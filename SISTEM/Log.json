@@ -4846,5 +4846,16 @@
     "ver": "V4",
     "phone": "60173405887",
     "requestId": "db_V4_8454034658_1781265357056"
+  },
+  {
+    "id": "L1781270592357EDM",
+    "ts": 1781270592357,
+    "tsStr": "12/6/2026, 21:23:12",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
