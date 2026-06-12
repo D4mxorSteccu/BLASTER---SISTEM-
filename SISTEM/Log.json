@@ -4676,5 +4676,17 @@
     "ver": "V4",
     "phone": null,
     "teleId": "8387602613"
+  },
+  {
+    "id": "L1781251411742N91",
+    "ts": 1781251411743,
+    "tsStr": "12/6/2026, 16:03:31",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Tambah akses V3: 8387602613",
+    "ver": "V3",
+    "phone": null,
+    "teleId": "8387602613"
   }
 ]
