@@ -4963,5 +4963,16 @@
     "detail": "Semak: 60146021047",
     "ver": "—",
     "phone": "60146021047"
+  },
+  {
+    "id": "L1781371517206XHC",
+    "ts": 1781371517206,
+    "tsStr": "14/6/2026, 01:25:17",
+    "act": "START",
+    "uid": "8327369166",
+    "uname": "Fanzz_1",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
