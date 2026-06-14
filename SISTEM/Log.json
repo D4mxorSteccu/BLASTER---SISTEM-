@@ -5044,5 +5044,18 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781435230826KJ8",
+    "ts": 1781435230826,
+    "tsStr": "14/6/2026, 19:07:10",
+    "act": "ADD2_REQ",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Mohon nombor 2: 601157450967 → 639759009157",
+    "ver": "V3",
+    "phone": "639759009157",
+    "phone1": "601157450967",
+    "requestId": "add2_7961446166_1781435229825"
   }
 ]
