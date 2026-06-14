@@ -4986,5 +4986,16 @@
     "ver": "V4",
     "phone": "601127188047",
     "requestId": "db_V4_5603146293_1781399431989"
+  },
+  {
+    "id": "L17814091941754YO",
+    "ts": 1781409194175,
+    "tsStr": "14/6/2026, 11:53:14",
+    "act": "START",
+    "uid": "1872132577",
+    "uname": "Zakrissss",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
