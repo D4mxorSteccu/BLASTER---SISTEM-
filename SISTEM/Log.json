@@ -5240,5 +5240,16 @@
     "detail": "Login: OWNER_V5",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781606105441ETY",
+    "ts": 1781606105441,
+    "tsStr": "16/6/2026, 18:35:05",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
