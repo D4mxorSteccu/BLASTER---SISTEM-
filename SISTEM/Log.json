@@ -5340,5 +5340,16 @@
     "detail": "Login: MODERATOR",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781615230803JDY",
+    "ts": 1781615230803,
+    "tsStr": "16/6/2026, 21:07:10",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
