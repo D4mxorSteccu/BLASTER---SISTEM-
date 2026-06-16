@@ -5442,5 +5442,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781620785134ZTD",
+    "ts": 1781620785134,
+    "tsStr": "16/6/2026, 22:39:45",
+    "act": "START",
+    "uid": "8439178661",
+    "uname": "Mikey2330",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
