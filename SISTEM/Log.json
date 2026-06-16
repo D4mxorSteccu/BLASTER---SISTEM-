@@ -5396,5 +5396,17 @@
     "detail": "Login: RESELLER_V3",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781617535444ZA1",
+    "ts": 1781617535444,
+    "tsStr": "16/6/2026, 21:45:35",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Tambah akses V4: 8439178661",
+    "ver": "V4",
+    "phone": null,
+    "teleId": "8439178661"
   }
 ]
