@@ -5363,5 +5363,16 @@
     "ver": "V3",
     "phone": null,
     "teleId": "8439178661"
+  },
+  {
+    "id": "L1781615526046T71",
+    "ts": 1781615526046,
+    "tsStr": "16/6/2026, 21:12:06",
+    "act": "START",
+    "uid": "8439178661",
+    "uname": "Mikey2330",
+    "detail": "Login: RESELLER_V3",
+    "ver": "—",
+    "phone": null
   }
 ]
