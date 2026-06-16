@@ -5351,5 +5351,17 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781615248416B1O",
+    "ts": 1781615248416,
+    "tsStr": "16/6/2026, 21:07:28",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Tambah akses V3: 8439178661",
+    "ver": "V3",
+    "phone": null,
+    "teleId": "8439178661"
   }
 ]
