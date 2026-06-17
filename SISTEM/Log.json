@@ -5582,5 +5582,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L178168676430772I",
+    "ts": 1781686764307,
+    "tsStr": "17/6/2026, 16:59:24",
+    "act": "START",
+    "uid": "8472526334",
+    "uname": "kalzstore1",
+    "detail": "Login: RESELLER_V3",
+    "ver": "—",
+    "phone": null
   }
 ]
