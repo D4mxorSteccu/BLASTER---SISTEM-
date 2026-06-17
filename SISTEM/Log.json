@@ -5511,5 +5511,17 @@
     "detail": "Login: MODERATOR",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L178166366482461E",
+    "ts": 1781663664824,
+    "tsStr": "17/6/2026, 10:34:24",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Tambah akses V3: 8512404465",
+    "ver": "V3",
+    "phone": null,
+    "teleId": "8512404465"
   }
 ]
