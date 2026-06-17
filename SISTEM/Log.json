@@ -5604,5 +5604,16 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781694884312R6R",
+    "ts": 1781694884312,
+    "tsStr": "17/6/2026, 19:14:44",
+    "act": "SEMAK",
+    "uid": "8011120970",
+    "uname": "hamzukixstore",
+    "detail": "Semak: 01160877309",
+    "ver": "—",
+    "phone": "01160877309"
   }
 ]
