@@ -5615,5 +5615,16 @@
     "detail": "Semak: 01160877309",
     "ver": "—",
     "phone": "01160877309"
+  },
+  {
+    "id": "L1781701336490RSM",
+    "ts": 1781701336490,
+    "tsStr": "17/6/2026, 21:02:16",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
