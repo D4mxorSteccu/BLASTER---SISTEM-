@@ -5523,5 +5523,16 @@
     "ver": "V3",
     "phone": null,
     "teleId": "8512404465"
+  },
+  {
+    "id": "L1781676086947VPT",
+    "ts": 1781676086947,
+    "tsStr": "17/6/2026, 14:01:26",
+    "act": "START",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
