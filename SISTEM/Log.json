@@ -5626,5 +5626,17 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L178170138561181X",
+    "ts": 1781701385611,
+    "tsStr": "17/6/2026, 21:03:05",
+    "act": "DB_REQ",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Mohon tambah V3: 601159418564",
+    "ver": "V3",
+    "phone": "601159418564",
+    "requestId": "db_V3_7961446166_1781701384506"
   }
 ]
