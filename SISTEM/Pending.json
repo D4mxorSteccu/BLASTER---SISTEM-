@@ -2115,5 +2115,18 @@
     "byUname": "D4mxorx",
     "at": 1781621117301,
     "atStr": "16/6/2026, 22:45:17"
+  },
+  {
+    "id": "del_V4_1303593264_1781676120131",
+    "type": "del_req",
+    "phone": "6281256127434",
+    "ver": "V4",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
+    "name": "A",
+    "ts": 1781676120131,
+    "tsStr": "17/6/2026, 14:02:00",
+    "status": "pending",
+    "country": "Indonesia"
   }
 ]
