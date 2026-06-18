@@ -1,16 +1,5 @@
 [
   {
-    "id": "L17788810260542D1",
-    "ts": 1778881026054,
-    "tsStr": "16/5/2026, 05:37:06",
-    "act": "DB_DEL_REJECTED",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Tolak padam V5: 601130538675",
-    "ver": "V5",
-    "phone": "601130538675"
-  },
-  {
     "id": "L17788817265618NI",
     "ts": 1778881726561,
     "tsStr": "16/5/2026, 05:48:46",
@@ -5698,6 +5687,17 @@
     "uid": "7961446166",
     "uname": "D4mxorx",
     "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1781808907856DDA",
+    "ts": 1781808907856,
+    "tsStr": "19/6/2026, 02:55:07",
+    "act": "START",
+    "uid": "8011120970",
+    "uname": "hamzukixstore",
+    "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
   }
