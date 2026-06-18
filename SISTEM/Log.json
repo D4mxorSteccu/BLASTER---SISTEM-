@@ -1,16 +1,5 @@
 [
   {
-    "id": "L17788809871946S5",
-    "ts": 1778880987194,
-    "tsStr": "16/5/2026, 05:36:27",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L17788810189133UI",
     "ts": 1778881018913,
     "tsStr": "16/5/2026, 05:36:58",
@@ -5699,6 +5688,17 @@
     "uid": "7961446166",
     "uname": "D4mxorx",
     "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1781791558422S5H",
+    "ts": 1781791558422,
+    "tsStr": "18/6/2026, 22:05:58",
+    "act": "GRP_SYNC",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Sync 2 group: 28 ok, 93 fail",
     "ver": "—",
     "phone": null
   }
