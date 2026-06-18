@@ -1,16 +1,5 @@
 [
   {
-    "id": "LOG_1778801715284_CF5F",
-    "ts": 1778801715284,
-    "tsStr": "15/5/2026, 07:35:15",
-    "act": "BACKUP_EXPORT",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Full backup dari GitHub",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "LOG_1778801816239_6GJK",
     "ts": 1778801816239,
     "tsStr": "15/5/2026, 07:36:56",
@@ -5698,6 +5687,17 @@
     "id": "L1781780980934VKM",
     "ts": 1781780980934,
     "tsStr": "18/6/2026, 19:09:40",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1781781018635D0D",
+    "ts": 1781781018635,
+    "tsStr": "18/6/2026, 19:10:18",
     "act": "START",
     "uid": "7961446166",
     "uname": "D4mxorx",
