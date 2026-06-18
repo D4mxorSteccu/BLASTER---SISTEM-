@@ -5693,5 +5693,16 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781780898649TQO",
+    "ts": 1781780898649,
+    "tsStr": "18/6/2026, 19:08:18",
+    "act": "START",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
