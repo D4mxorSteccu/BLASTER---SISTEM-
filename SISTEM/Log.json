@@ -1,16 +1,5 @@
 [
   {
-    "id": "LOG_1778801679240_1XIH",
-    "ts": 1778801679240,
-    "tsStr": "15/5/2026, 07:34:39",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "akses bot",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "LOG_1778801715284_CF5F",
     "ts": 1778801715284,
     "tsStr": "15/5/2026, 07:35:15",
@@ -5702,6 +5691,17 @@
     "uid": "1303593264",
     "uname": "Zadmxz",
     "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1781780980934VKM",
+    "ts": 1781780980934,
+    "tsStr": "18/6/2026, 19:09:40",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
   }
