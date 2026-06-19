@@ -1,17 +1,5 @@
 [
   {
-    "id": "L17788821210926KF",
-    "ts": 1778882121092,
-    "tsStr": "16/5/2026, 05:55:21",
-    "act": "AKSES_ADD",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Tambah akses V5: 1825733639",
-    "ver": "V5",
-    "phone": null,
-    "teleId": "1825733639"
-  },
-  {
     "id": "L1778882126808171",
     "ts": 1778882126808,
     "tsStr": "16/5/2026, 05:55:26",
@@ -5698,6 +5686,17 @@
     "uid": "7961446166",
     "uname": "D4mxorx",
     "detail": "owners_v3: 5652430430",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1781840980544UDJ",
+    "ts": 1781840980544,
+    "tsStr": "19/6/2026, 11:49:40",
+    "act": "START",
+    "uid": "5652430430",
+    "uname": "D4mxor",
+    "detail": "Login: OWNER_V3",
     "ver": "—",
     "phone": null
   }
