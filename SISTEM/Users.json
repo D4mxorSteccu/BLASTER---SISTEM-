@@ -93,9 +93,15 @@
     "8009023125",
     "8311700281",
     "8472526334",
-    "7494360064"
+    "7494360064",
+    "136817688"
   ],
   "details": {
+    "136817688": {
+      "first_name": "Channel",
+      "username": "Channel_Bot",
+      "lastSeen": 1781873599399
+    },
     "609517172": {
       "first_name": "Rose",
       "username": "MissRose_bot",
