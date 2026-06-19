@@ -1,16 +1,5 @@
 [
   {
-    "id": "L17788817265618NI",
-    "ts": 1778881726561,
-    "tsStr": "16/5/2026, 05:48:46",
-    "act": "ROLE_ADD",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "owners_v4: 1825733639",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1778881733382DFA",
     "ts": 1778881733382,
     "tsStr": "16/5/2026, 05:48:53",
@@ -5698,6 +5687,17 @@
     "uid": "8011120970",
     "uname": "hamzukixstore",
     "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L17818280065519WW",
+    "ts": 1781828006551,
+    "tsStr": "19/6/2026, 08:13:26",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
   }
