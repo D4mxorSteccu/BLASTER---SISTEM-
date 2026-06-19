@@ -1,18 +1,5 @@
 [
   {
-    "id": "L1778883202701HO8",
-    "ts": 1778883202701,
-    "tsStr": "16/5/2026, 06:13:22",
-    "act": "BROADCAST",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Broadcast ke 2 pengguna",
-    "ver": "—",
-    "phone": null,
-    "ok": 2,
-    "fail": 1
-  },
-  {
     "id": "L177888932996489G",
     "ts": 1778889329964,
     "tsStr": "16/5/2026, 07:55:29",
@@ -5699,6 +5686,17 @@
     "uid": "7961446166",
     "uname": "D4mxorx",
     "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1781892394604WDP",
+    "ts": 1781892394604,
+    "tsStr": "20/6/2026, 02:06:34",
+    "act": "USER_BLOCK",
+    "uid": "5492220520",
+    "uname": "—",
+    "detail": "User block/delete bot",
     "ver": "—",
     "phone": null
   }
