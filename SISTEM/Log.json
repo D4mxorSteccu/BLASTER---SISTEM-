@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1778881750100HXA",
-    "ts": 1778881750100,
-    "tsStr": "16/5/2026, 05:49:10",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1778881812575AY7",
     "ts": 1778881812575,
     "tsStr": "16/5/2026, 05:50:12",
@@ -5698,6 +5687,17 @@
     "uid": "7961446166",
     "uname": "D4mxorx",
     "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L17818315457614NE",
+    "ts": 1781831545761,
+    "tsStr": "19/6/2026, 09:12:25",
+    "act": "ANTI_CULIK_DETECT",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Group: 𝐒𝐄𝐑𝐕𝐄𝐑 𝐃𝟒𝐌𝐗𝐎𝐑!! ↯ (-1003755924976)",
     "ver": "—",
     "phone": null
   }
