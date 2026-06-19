@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1778882126808171",
-    "ts": 1778882126808,
-    "tsStr": "16/5/2026, 05:55:26",
-    "act": "START",
-    "uid": "1825733639",
-    "uname": "D4mxor",
-    "detail": "Login: RESELLER_V5",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L177888263152041Y",
     "ts": 1778882631520,
     "tsStr": "16/5/2026, 06:03:51",
@@ -5699,5 +5688,17 @@
     "detail": "Login: OWNER_V3",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1781841094961LN8",
+    "ts": 1781841094961,
+    "tsStr": "19/6/2026, 11:51:34",
+    "act": "AKSES_ADD",
+    "uid": "5652430430",
+    "uname": "D4mxor",
+    "detail": "Tambah akses V3: 7961446167",
+    "ver": "V3",
+    "phone": null,
+    "teleId": "7961446167"
   }
 ]
