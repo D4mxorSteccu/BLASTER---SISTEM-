@@ -1,7 +1,7 @@
 {
   "totalAdd": {
     "V3": 16,
-    "V4": 33,
+    "V4": 34,
     "V5": 4
   },
   "totalDel": {
@@ -11,12 +11,12 @@
   },
   "totalAdd2": 32,
   "totalBulk": 0,
-  "totalApproved": 53,
+  "totalApproved": 54,
   "totalRejected": 7,
   "totalBlacklist": 5,
   "totalWarning": 7,
   "totalSeller": 0,
   "totalBroadcast": 15,
   "totalMembers": 4,
-  "lastUpdated": "17/6/2026, 21:03:09"
+  "lastUpdated": "20/6/2026, 15:02:45"
 }
