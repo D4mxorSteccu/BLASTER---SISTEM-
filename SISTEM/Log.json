@@ -1,16 +1,5 @@
 [
   {
-    "id": "L177888932996489G",
-    "ts": 1778889329964,
-    "tsStr": "16/5/2026, 07:55:29",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1778889370211ZC2",
     "ts": 1778889370211,
     "tsStr": "16/5/2026, 07:56:10",
@@ -5699,5 +5688,17 @@
     "detail": "User block/delete bot",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17819343188931AP",
+    "ts": 1781934318893,
+    "tsStr": "20/6/2026, 13:45:18",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Tambah akses V4: 8009023125",
+    "ver": "V4",
+    "phone": null,
+    "teleId": "8009023125"
   }
 ]
