@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1778889370211ZC2",
-    "ts": 1778889370211,
-    "tsStr": "16/5/2026, 07:56:10",
-    "act": "BACKUP",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Full backup dari GitHub",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L177888945227845N",
     "ts": 1778889452278,
     "tsStr": "16/5/2026, 07:57:32",
@@ -5700,5 +5689,16 @@
     "ver": "V4",
     "phone": null,
     "teleId": "8009023125"
+  },
+  {
+    "id": "L1781934368348YZP",
+    "ts": 1781934368348,
+    "tsStr": "20/6/2026, 13:46:08",
+    "act": "START",
+    "uid": "8009023125",
+    "uname": "Reystore0",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
