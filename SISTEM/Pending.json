@@ -2194,5 +2194,23 @@
     "byUname": "D4mxorx",
     "at": 1781701388467,
     "atStr": "17/6/2026, 21:03:08"
+  },
+  {
+    "id": "db_V4_8009023125_1781938953770",
+    "type": "db_add",
+    "phone": "6285977555688",
+    "ver": "V4",
+    "uid": "8009023125",
+    "uname": "Reystore0",
+    "name": "Manusia",
+    "ts": 1781938953770,
+    "tsStr": "20/6/2026, 15:02:33",
+    "status": "pending",
+    "country": "Indonesia",
+    "proofFileId": "AgACAgUAAxkBAAI3lmo2OhGk0NlMlR0sNOMWuyi_4TnvAAI3E2sbe1mwVcFwFC-lRWr3AQADAgADeQADPAQ",
+    "ulasan": "Hutang",
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
