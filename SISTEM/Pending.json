@@ -2256,5 +2256,18 @@
     "byUname": "D4mxorx",
     "at": 1781995508842,
     "atStr": "21/6/2026, 06:45:08"
+  },
+  {
+    "id": "del_V4_8439178661_1782045049088",
+    "type": "del_req",
+    "phone": "601159235320",
+    "ver": "V4",
+    "uid": "8439178661",
+    "uname": "Mikey2330",
+    "name": "Mikey",
+    "ts": 1782045049088,
+    "tsStr": "21/6/2026, 20:30:49",
+    "status": "pending",
+    "country": "Malaysia"
   }
 ]
