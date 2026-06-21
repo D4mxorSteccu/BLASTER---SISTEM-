@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1778922417305UTP",
-    "ts": 1778922417305,
-    "tsStr": "16/5/2026, 17:06:57",
-    "act": "NEW_MEMBER",
-    "uid": "1538326211",
-    "uname": "suport_group_realli",
-    "detail": "Member baru: Support Group - IB",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1778922585201TCC",
     "ts": 1778922585201,
     "tsStr": "16/5/2026, 17:09:45",
@@ -5705,5 +5694,16 @@
     "detail": "Semak: 601120854791",
     "ver": "—",
     "phone": "601120854791"
+  },
+  {
+    "id": "L1782051455133DMC",
+    "ts": 1782051455133,
+    "tsStr": "21/6/2026, 22:17:35",
+    "act": "SEMAK",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Semak: 60102813929",
+    "ver": "—",
+    "phone": "60102813929"
   }
 ]
