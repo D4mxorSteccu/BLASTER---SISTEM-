@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1778929268469D4M",
-    "ts": 1778929268469,
-    "tsStr": "16/5/2026, 19:01:08",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L17789294476398KV",
     "ts": 1778929447639,
     "tsStr": "16/5/2026, 19:04:07",
@@ -5706,5 +5695,16 @@
     "detail": "Semak: 60128660719",
     "ver": "—",
     "phone": "60128660719"
+  },
+  {
+    "id": "L1782054785990AJV",
+    "ts": 1782054785990,
+    "tsStr": "21/6/2026, 23:13:05",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
