@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1778929662614V0Q",
-    "ts": 1778929662614,
-    "tsStr": "16/5/2026, 19:07:42",
-    "act": "GRP_ADD_RGRP",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Reseller Group: -1003785170196 — DAMX BLASTER | INFORMATION",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1778929803490MXR",
     "ts": 1778929803490,
     "tsStr": "16/5/2026, 19:10:03",
@@ -5704,6 +5693,17 @@
     "uid": "8387602613",
     "uname": "Shahoffcial",
     "detail": "Login: KING",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782121721810L8L",
+    "ts": 1782121721810,
+    "tsStr": "22/6/2026, 17:48:41",
+    "act": "START",
+    "uid": "8465749326",
+    "uname": "marmy5",
+    "detail": "Login: MODERATOR",
     "ver": "—",
     "phone": null
   }
