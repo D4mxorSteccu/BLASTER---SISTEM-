@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1778941243522TM5",
-    "ts": 1778941243522,
-    "tsStr": "16/5/2026, 22:20:43",
-    "act": "AKSES_ADD",
-    "uid": "1825733639",
-    "uname": "D4mxor",
-    "detail": "Tambah akses V4: 1983044179",
-    "ver": "V4",
-    "phone": null,
-    "teleId": "1983044179"
-  },
-  {
     "id": "L1778941317919N7Y",
     "ts": 1778941317919,
     "tsStr": "16/5/2026, 22:21:57",
@@ -5701,6 +5689,17 @@
     "id": "L17822580770325DV",
     "ts": 1782258077032,
     "tsStr": "24/6/2026, 07:41:17",
+    "act": "START",
+    "uid": "8011120970",
+    "uname": "hamzukixstore",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782259190923VSY",
+    "ts": 1782259190923,
+    "tsStr": "24/6/2026, 07:59:50",
     "act": "START",
     "uid": "8011120970",
     "uname": "hamzukixstore",
