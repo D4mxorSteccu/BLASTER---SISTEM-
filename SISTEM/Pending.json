@@ -2331,5 +2331,18 @@
     "byUname": "NishOnlyyy",
     "at": 1782137077133,
     "atStr": "22/6/2026, 22:04:37"
+  },
+  {
+    "id": "del_V3_7922481201_1782193217634",
+    "type": "del_req",
+    "phone": "601170720910",
+    "ver": "V3",
+    "uid": "7922481201",
+    "uname": "RitxzEncem",
+    "name": "HarithEncem",
+    "ts": 1782193217634,
+    "tsStr": "23/6/2026, 13:40:17",
+    "status": "pending",
+    "country": "Malaysia"
   }
 ]
