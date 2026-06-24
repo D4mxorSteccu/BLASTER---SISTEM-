@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1779337691541CCW",
-    "ts": 1779337691541,
-    "tsStr": "21/5/2026, 12:28:11",
-    "act": "START",
-    "uid": "1825733639",
-    "uname": "D4mxor",
-    "detail": "Login: KING",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779337755316AYG",
     "ts": 1779337755316,
     "tsStr": "21/5/2026, 12:29:15",
@@ -5704,5 +5693,18 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1782306030085SK8",
+    "ts": 1782306030085,
+    "tsStr": "24/6/2026, 21:00:30",
+    "act": "WARN_AUTOBL",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Auto-blacklist: 8206532657",
+    "ver": "—",
+    "phone": null,
+    "targetId": "8206532657",
+    "targetRole": "OWNER_V4"
   }
 ]
