@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1778941317919N7Y",
-    "ts": 1778941317919,
-    "tsStr": "16/5/2026, 22:21:57",
-    "act": "AKSES_DEL",
-    "uid": "1825733639",
-    "uname": "D4mxor",
-    "detail": "Buang akses V4: 6946122020",
-    "ver": "V4",
-    "phone": null,
-    "teleId": "6946122020"
-  },
-  {
     "id": "L1778951279335PF7",
     "ts": 1778951279335,
     "tsStr": "17/5/2026, 01:07:59",
@@ -5706,5 +5694,17 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L178225928796153V",
+    "ts": 1782259287961,
+    "tsStr": "24/6/2026, 08:01:27",
+    "act": "DB_REQ",
+    "uid": "8011120970",
+    "uname": "hamzukixstore",
+    "detail": "Mohon tambah V3: 601160877309",
+    "ver": "V3",
+    "phone": "601160877309",
+    "requestId": "db_V3_8011120970_1782259286693"
   }
 ]
