@@ -2348,5 +2348,23 @@
     "byUname": "D4mxorx",
     "at": 1782193954188,
     "atStr": "23/6/2026, 13:52:34"
+  },
+  {
+    "id": "db_V3_8011120970_1782259286693",
+    "type": "db_add",
+    "phone": "601160877309",
+    "ver": "V3",
+    "uid": "8011120970",
+    "uname": "hamzukixstore",
+    "name": "h",
+    "ts": 1782259286693,
+    "tsStr": "24/6/2026, 08:01:26",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAI4oWo7HiKRwWU9T18eIbFopkRP-jVDAAIhD2sbcZ_ZVUr5qL4qEIibAQADAgADeQADPAQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
