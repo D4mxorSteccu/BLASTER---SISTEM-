@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1779008704145SIP",
-    "ts": 1779008704145,
-    "tsStr": "17/5/2026, 17:05:04",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L17790087671615V3",
     "ts": 1779008767161,
     "tsStr": "17/5/2026, 17:06:07",
@@ -5702,6 +5691,17 @@
     "uid": "7961446166",
     "uname": "D4mxorx",
     "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782299757332SPI",
+    "ts": 1782299757332,
+    "tsStr": "24/6/2026, 19:15:57",
+    "act": "START",
+    "uid": "7621131678",
+    "uname": "Madanizzz",
+    "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
   }
