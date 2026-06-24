@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1779337755316AYG",
-    "ts": 1779337755316,
-    "tsStr": "21/5/2026, 12:29:15",
-    "act": "GRP_XD4MX",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Group diaktifkan via /XD4MX: HAFIZIE dan D4mxor Testing (-1003520251018)",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779721815553MO2",
     "ts": 1779721815553,
     "tsStr": "25/5/2026, 23:10:15",
@@ -5706,5 +5695,16 @@
     "phone": null,
     "targetId": "8206532657",
     "targetRole": "OWNER_V4"
+  },
+  {
+    "id": "L178230662768851Q",
+    "ts": 1782306627688,
+    "tsStr": "24/6/2026, 21:10:27",
+    "act": "START",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
