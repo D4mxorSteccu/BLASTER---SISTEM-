@@ -2388,5 +2388,23 @@
     "byUname": "marmy5",
     "at": 1782285155273,
     "atStr": "24/6/2026, 15:12:35"
+  },
+  {
+    "id": "db_V4_8387602613_1782318570357",
+    "type": "db_add",
+    "phone": "6285189050426",
+    "ver": "V4",
+    "uid": "8387602613",
+    "uname": "Shahoffcial",
+    "name": "￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴￴ ￴ ￴",
+    "ts": 1782318570357,
+    "tsStr": "25/6/2026, 24:29:30",
+    "status": "pending",
+    "country": "Indonesia",
+    "proofFileId": "AgACAgUAAxkBAAI5dmo8BdYvcDqS3ywOixGJ6vvdPtPbAAKrFGsbTrbhVQzhe67qbyR1AQADAgADeQADPAQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
