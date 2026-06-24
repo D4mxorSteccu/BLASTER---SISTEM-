@@ -1,17 +1,5 @@
 [
   {
-    "id": "L17797218566706EH",
-    "ts": 1779721856671,
-    "tsStr": "25/5/2026, 23:10:56",
-    "act": "AKSES_ADD",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Tambah akses V5: 1825733639",
-    "ver": "V5",
-    "phone": null,
-    "teleId": "1825733639"
-  },
-  {
     "id": "L1779721889512Q8E",
     "ts": 1779721889512,
     "tsStr": "25/5/2026, 23:11:29",
@@ -5702,6 +5690,17 @@
     "act": "START",
     "uid": "8477166862",
     "uname": "RixxzzStore",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782308781017FOM",
+    "ts": 1782308781017,
+    "tsStr": "24/6/2026, 21:46:21",
+    "act": "START",
+    "uid": "6946122020",
+    "uname": "kizxampas",
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
