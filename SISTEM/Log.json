@@ -1,16 +1,5 @@
 [
   {
-    "id": "L17790058643515XL",
-    "ts": 1779005864351,
-    "tsStr": "17/5/2026, 16:17:44",
-    "act": "START",
-    "uid": "6746319597",
-    "uname": "acapzx123",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779006047031QOG",
     "ts": 1779006047032,
     "tsStr": "17/5/2026, 16:20:47",
@@ -5705,6 +5694,18 @@
     "uname": "D4mxorx",
     "detail": "Buang akses V4: 8206532657",
     "ver": "V4",
+    "phone": null,
+    "teleId": "8206532657"
+  },
+  {
+    "id": "L1782297481402R30",
+    "ts": 1782297481402,
+    "tsStr": "24/6/2026, 18:38:01",
+    "act": "AKSES_DEL",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Buang akses V3: 8206532657",
+    "ver": "V3",
     "phone": null,
     "teleId": "8206532657"
   }
