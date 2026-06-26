@@ -1,16 +1,5 @@
 [
   {
-    "id": "L17797931434615FG",
-    "ts": 1779793143461,
-    "tsStr": "26/5/2026, 18:59:03",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779793190010MP9",
     "ts": 1779793190010,
     "tsStr": "26/5/2026, 18:59:50",
@@ -5702,5 +5691,16 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1782486020384JWS",
+    "ts": 1782486020384,
+    "tsStr": "26/6/2026, 23:00:20",
+    "act": "SEMAK",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
+    "detail": "Semak: 601153400851",
+    "ver": "—",
+    "phone": "601153400851"
   }
 ]
