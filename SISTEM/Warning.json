@@ -1,6 +1,6 @@
 {
   "1303593264": {
-    "count": 2,
+    "count": 3,
     "reasons": [
       {
         "reason": "Send sticker lucah",
@@ -15,9 +15,16 @@
         "byUname": "8387602613",
         "at": 1781081594774,
         "atStr": "10/6/2026, 16:53:14"
+      },
+      {
+        "reason": "Bukti komisen palsu",
+        "by": "7961446166",
+        "byUname": "D4mxorx",
+        "at": 1782482034020,
+        "atStr": "26/6/2026, 21:53:54"
       }
     ],
-    "lastAt": 1781081594775
+    "lastAt": 1782482034020
   },
   "1825733639": {
     "count": 3,
