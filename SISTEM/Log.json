@@ -1,16 +1,5 @@
 [
   {
-    "id": "L17797931988279DO",
-    "ts": 1779793198827,
-    "tsStr": "26/5/2026, 18:59:58",
-    "act": "ROLE_DEL",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "owners_v5: 1825733639",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779793211233E9J",
     "ts": 1779793211233,
     "tsStr": "26/5/2026, 19:00:11",
@@ -5700,6 +5689,17 @@
     "uid": "8465749326",
     "uname": "marmy5",
     "detail": "Login: MODERATOR",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782541399418VI8",
+    "ts": 1782541399418,
+    "tsStr": "27/6/2026, 14:23:19",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
   }
