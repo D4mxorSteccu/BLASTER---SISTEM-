@@ -1,18 +1,5 @@
 [
   {
-    "id": "L1779793451255H7V",
-    "ts": 1779793451255,
-    "tsStr": "26/5/2026, 19:04:11",
-    "act": "BROADCAST",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Broadcast ke 10 pengguna",
-    "ver": "—",
-    "phone": null,
-    "ok": 10,
-    "fail": 24
-  },
-  {
     "id": "L1779793475198TBD",
     "ts": 1779793475198,
     "tsStr": "26/5/2026, 19:04:35",
@@ -5700,6 +5687,18 @@
     "uname": "D4mxorx",
     "detail": "Tambah akses V4: 5652430430",
     "ver": "V4",
+    "phone": null,
+    "teleId": "5652430430"
+  },
+  {
+    "id": "L1782548948915GQB",
+    "ts": 1782548948915,
+    "tsStr": "27/6/2026, 16:29:08",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Tambah akses V3: 5652430430",
+    "ver": "V3",
     "phone": null,
     "teleId": "5652430430"
   }
