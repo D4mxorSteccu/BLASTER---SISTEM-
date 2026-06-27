@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1779793475198TBD",
-    "ts": 1779793475198,
-    "tsStr": "26/5/2026, 19:04:35",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779794109926IA6",
     "ts": 1779794109926,
     "tsStr": "26/5/2026, 19:15:09",
@@ -5701,5 +5690,16 @@
     "ver": "V3",
     "phone": null,
     "teleId": "5652430430"
+  },
+  {
+    "id": "L1782548953567WF6",
+    "ts": 1782548953567,
+    "tsStr": "27/6/2026, 16:29:13",
+    "act": "START",
+    "uid": "5652430430",
+    "uname": "F4nzzOffica1",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
