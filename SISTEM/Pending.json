@@ -2443,7 +2443,11 @@
     "name": "𝑴𝒚𝑳𝒐𝒗𝒆𝑭𝒊𝒐𝒏𝒂ᰔᩚ",
     "ts": 1782566881660,
     "tsStr": "27/6/2026, 21:28:01",
-    "status": "pending",
-    "country": "Malaysia"
+    "status": "approved",
+    "country": "Malaysia",
+    "by": "7961446166",
+    "byUname": "D4mxorx",
+    "at": 1782566896803,
+    "atStr": "27/6/2026, 21:28:16"
   }
 ]
