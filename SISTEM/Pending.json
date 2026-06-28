@@ -2485,5 +2485,23 @@
     "byUname": "D4mxorx",
     "at": 1782651545461,
     "atStr": "28/6/2026, 20:59:05"
+  },
+  {
+    "id": "db_V4_1303593264_1782657150051",
+    "type": "db_add",
+    "phone": "60122755177",
+    "ver": "V4",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
+    "name": "A",
+    "ts": 1782657150051,
+    "tsStr": "28/6/2026, 22:32:30",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAI6LWpBMFS36I9b5cqvb-pWOaH6duGyAAKQEGsbN7AIVkx_6oAdjZo5AQADAgADeQADPAQ",
+    "ulasan": "new buyer",
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
