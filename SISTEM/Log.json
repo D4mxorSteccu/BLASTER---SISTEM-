@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1779809850103RK5",
-    "ts": 1779809850103,
-    "tsStr": "26/5/2026, 23:37:30",
-    "act": "GRP_SYNC",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Sync 3 group: 94 ok, 73 fail",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L177980993433406S",
     "ts": 1779809934334,
     "tsStr": "26/5/2026, 23:38:54",
@@ -5707,6 +5696,17 @@
     "uid": "7961446166",
     "uname": "D4mxorx",
     "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782660761527L9E",
+    "ts": 1782660761527,
+    "tsStr": "28/6/2026, 23:32:41",
+    "act": "START",
+    "uid": "8439178661",
+    "uname": "Mikey2330",
+    "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
   }
