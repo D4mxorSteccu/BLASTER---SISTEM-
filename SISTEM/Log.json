@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1779809963384JMY",
-    "ts": 1779809963384,
-    "tsStr": "26/5/2026, 23:39:23",
-    "act": "BACKUP",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Full backup dari Database",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L17798131614412EN",
     "ts": 1779813161441,
     "tsStr": "27/5/2026, 24:32:41",
@@ -5710,5 +5699,16 @@
     "ver": "V4",
     "phone": "601159129787",
     "requestId": "del_V4_8439178661_1782660846640"
+  },
+  {
+    "id": "L1782702298701JWJ",
+    "ts": 1782702298701,
+    "tsStr": "29/6/2026, 11:04:58",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
