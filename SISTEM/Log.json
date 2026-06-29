@@ -1,16 +1,5 @@
 [
   {
-    "id": "L17798947520033JW",
-    "ts": 1779894752003,
-    "tsStr": "27/5/2026, 23:12:32",
-    "act": "START",
-    "uid": "8220023285",
-    "uname": "fiqueesec",
-    "detail": "Login: RESELLER_V3",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779894769359WT7",
     "ts": 1779894769359,
     "tsStr": "27/5/2026, 23:12:49",
@@ -5709,6 +5698,17 @@
     "act": "USER_BLOCK",
     "uid": "1716145687",
     "uname": "—",
+    "detail": "User block/delete bot",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782762656897UPZ",
+    "ts": 1782762656897,
+    "tsStr": "30/6/2026, 03:50:56",
+    "act": "USER_BLOCK",
+    "uid": "5728213276",
+    "uname": "@wavfou",
     "detail": "User block/delete bot",
     "ver": "—",
     "phone": null
