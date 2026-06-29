@@ -1,16 +1,5 @@
 [
   {
-    "id": "L17798131614412EN",
-    "ts": 1779813161441,
-    "tsStr": "27/5/2026, 24:32:41",
-    "act": "NEW_MEMBER",
-    "uid": "8763597820",
-    "uname": "ManzStoreMy",
-    "detail": "Member baru: Rahman",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779894242494E9N",
     "ts": 1779894242494,
     "tsStr": "27/5/2026, 23:04:02",
@@ -5708,6 +5697,17 @@
     "uid": "7961446166",
     "uname": "D4mxorx",
     "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782714282898KHF",
+    "ts": 1782714282898,
+    "tsStr": "29/6/2026, 14:24:42",
+    "act": "ROLE_ADD",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "moderators: 8477166862",
     "ver": "—",
     "phone": null
   }
