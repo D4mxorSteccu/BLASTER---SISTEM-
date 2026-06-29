@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1779894560042GF6",
-    "ts": 1779894560042,
-    "tsStr": "27/5/2026, 23:09:20",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779894704490XU0",
     "ts": 1779894704490,
     "tsStr": "27/5/2026, 23:11:44",
@@ -5712,5 +5701,16 @@
     "detail": "Semak: 601170720910",
     "ver": "—",
     "phone": "601170720910"
+  },
+  {
+    "id": "L1782740659438MMR",
+    "ts": 1782740659438,
+    "tsStr": "29/6/2026, 21:44:19",
+    "act": "START",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Login: MODERATOR",
+    "ver": "—",
+    "phone": null
   }
 ]
