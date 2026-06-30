@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1779894769359WT7",
-    "ts": 1779894769359,
-    "tsStr": "27/5/2026, 23:12:49",
-    "act": "GRP_SET_HUB",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Customer Hub: -1003804625686 — 𝗗𝗔𝗠𝗫 𝗕𝗟𝗔𝗦𝗧𝗘𝗥 | 𝗖𝗨𝗦𝗧𝗢𝗠𝗘𝗥 𝗛𝗨𝗕",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779894833144R14",
     "ts": 1779894833144,
     "tsStr": "27/5/2026, 23:13:53",
@@ -5710,6 +5699,17 @@
     "uid": "5728213276",
     "uname": "@wavfou",
     "detail": "User block/delete bot",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782790382817BZG",
+    "ts": 1782790382817,
+    "tsStr": "30/6/2026, 11:33:02",
+    "act": "START",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Login: MODERATOR",
     "ver": "—",
     "phone": null
   }
