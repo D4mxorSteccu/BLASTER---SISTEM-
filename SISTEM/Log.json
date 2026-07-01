@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1779894880472U7U",
-    "ts": 1779894880472,
-    "tsStr": "27/5/2026, 23:14:40",
-    "act": "START",
-    "uid": "8477166862",
-    "uname": "RixxzzStore",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779894890995TI3",
     "ts": 1779894890995,
     "tsStr": "27/5/2026, 23:14:50",
@@ -5712,5 +5701,16 @@
     "detail": "Login: RESELLER_V3",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1782913992118648",
+    "ts": 1782913992118,
+    "tsStr": "1/7/2026, 21:53:12",
+    "act": "SEMAK",
+    "uid": "8472526334",
+    "uname": "kalzstore1",
+    "detail": "Semak: 60193499867",
+    "ver": "—",
+    "phone": "60193499867"
   }
 ]
