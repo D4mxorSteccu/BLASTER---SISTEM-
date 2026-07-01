@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1779896499266I5A",
-    "ts": 1779896499266,
-    "tsStr": "27/5/2026, 23:41:39",
-    "act": "SEMAK",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Semak: 601127287370",
-    "ver": "—",
-    "phone": "601127287370"
-  },
-  {
     "id": "L17798965663887QV",
     "ts": 1779896566388,
     "tsStr": "27/5/2026, 23:42:46",
@@ -5714,6 +5703,17 @@
     "uid": "8477166862",
     "uname": "RixxzzStore",
     "detail": "Login: MODERATOR",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782939359794E0Q",
+    "ts": 1782939359794,
+    "tsStr": "2/7/2026, 04:55:59",
+    "act": "FORCE_SYNC",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "V3:44 V4:232 V5:4",
     "ver": "—",
     "phone": null
   }
