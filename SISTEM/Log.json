@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1779894868566CG7",
-    "ts": 1779894868566,
-    "tsStr": "27/5/2026, 23:14:28",
-    "act": "START",
-    "uid": "1303593264",
-    "uname": "Zadmxz",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779894870997CGQ",
     "ts": 1779894870997,
     "tsStr": "27/5/2026, 23:14:30",
@@ -5710,6 +5699,17 @@
     "uid": "8472526334",
     "uname": "kalzstore1",
     "detail": "Login: RESELLER_V3",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782913895088T5Y",
+    "ts": 1782913895088,
+    "tsStr": "1/7/2026, 21:51:35",
+    "act": "START",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Login: MODERATOR",
     "ver": "—",
     "phone": null
   }
