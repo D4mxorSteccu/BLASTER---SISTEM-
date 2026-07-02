@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1779943634829WFC",
-    "ts": 1779943634829,
-    "tsStr": "28/5/2026, 12:47:14",
-    "act": "START",
-    "uid": "8512404465",
-    "uname": "Kimi661",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779943741441OW3",
     "ts": 1779943741441,
     "tsStr": "28/5/2026, 12:49:01",
@@ -5707,6 +5696,17 @@
     "uid": "6940380942",
     "uname": "WaiLokChan211",
     "detail": "Member baru: 淑儀",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782974321958TQV",
+    "ts": 1782974321958,
+    "tsStr": "2/7/2026, 14:38:41",
+    "act": "NEW_MEMBER",
+    "uid": "5594561839",
+    "uname": "LisaGreen996226",
+    "detail": "Member baru: Lisa",
     "ver": "—",
     "phone": null
   }
