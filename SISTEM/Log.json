@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1779943741441OW3",
-    "ts": 1779943741441,
-    "tsStr": "28/5/2026, 12:49:01",
-    "act": "DB_REQ",
-    "uid": "8512404465",
-    "uname": "Kimi661",
-    "detail": "Mohon tambah V4: 60175592550",
-    "ver": "V4",
-    "phone": "60175592550",
-    "requestId": "db_V4_8512404465_1779943740453"
-  },
-  {
     "id": "L1779943785014D8U",
     "ts": 1779943785014,
     "tsStr": "28/5/2026, 12:49:45",
@@ -5707,6 +5695,17 @@
     "uid": "5594561839",
     "uname": "LisaGreen996226",
     "detail": "Member baru: Lisa",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782974323172XD5",
+    "ts": 1782974323177,
+    "tsStr": "2/7/2026, 14:38:43",
+    "act": "NEW_MEMBER",
+    "uid": "7020958320",
+    "uname": "JenniferLillie2016",
+    "detail": "Member baru: عبد الرزاق العمرو",
     "ver": "—",
     "phone": null
   }
