@@ -1,16 +1,5 @@
 [
   {
-    "id": "L17799316878395DI",
-    "ts": 1779931687839,
-    "tsStr": "28/5/2026, 09:28:07",
-    "act": "START",
-    "uid": "1776051218",
-    "uname": "Zakriss",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779942645787QVK",
     "ts": 1779942645787,
     "tsStr": "28/5/2026, 12:30:45",
@@ -5712,6 +5701,17 @@
     "uid": "5493874195",
     "uname": "DavidPalme656739",
     "detail": "Member baru: David",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782974295094M48",
+    "ts": 1782974295094,
+    "tsStr": "2/7/2026, 14:38:15",
+    "act": "NEW_MEMBER",
+    "uid": "7670173670",
+    "uname": "RobertLawre826912",
+    "detail": "Member baru: Yolal",
     "ver": "—",
     "phone": null
   }
