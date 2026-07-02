@@ -1,16 +1,5 @@
 [
   {
-    "id": "L177990841887274K",
-    "ts": 1779908418872,
-    "tsStr": "28/5/2026, 03:00:18",
-    "act": "START",
-    "uid": "8206532657",
-    "uname": "NishOnlyyy",
-    "detail": "Login: OWNER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779926421664ZDZ",
     "ts": 1779926421664,
     "tsStr": "28/5/2026, 08:00:21",
@@ -5713,6 +5702,17 @@
     "uid": "7291288654",
     "uname": "hdihdihdigd",
     "detail": "Member baru: Frau Prof. Dr. Christin Hansen B.Sc.",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L17829742919729K6",
+    "ts": 1782974291972,
+    "tsStr": "2/7/2026, 14:38:11",
+    "act": "NEW_MEMBER",
+    "uid": "7886313461",
+    "uname": "ncktuyjo",
+    "detail": "Member baru: David",
     "ver": "—",
     "phone": null
   }
