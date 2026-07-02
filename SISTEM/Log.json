@@ -1,17 +1,5 @@
 [
   {
-    "id": "L17800356003215V0",
-    "ts": 1780035600321,
-    "tsStr": "29/5/2026, 14:20:00",
-    "act": "DB_REQ",
-    "uid": "1303593264",
-    "uname": "Zadmxz",
-    "detail": "Mohon tambah V4: 60169328115",
-    "ver": "V4",
-    "phone": "60169328115",
-    "requestId": "db_V4_1303593264_1780035599196"
-  },
-  {
     "id": "L17800356119836JW",
     "ts": 1780035611983,
     "tsStr": "29/5/2026, 14:20:11",
@@ -5702,6 +5690,17 @@
     "uid": "5548531443",
     "uname": "LeoSalas886751",
     "detail": "Member baru: Leo",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782974373805UO2",
+    "ts": 1782974373805,
+    "tsStr": "2/7/2026, 14:39:33",
+    "act": "NEW_MEMBER",
+    "uid": "5492773286",
+    "uname": "LisaSanch1223",
+    "detail": "Member baru: Lisa",
     "ver": "—",
     "phone": null
   }
