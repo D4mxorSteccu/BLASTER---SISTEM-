@@ -2560,5 +2560,23 @@
     "byUname": "D4mxorx",
     "at": 1782918992239,
     "atStr": "1/7/2026, 23:16:32"
+  },
+  {
+    "id": "db_V5_8387602613_1782997439747",
+    "type": "db_add",
+    "phone": "601170037150",
+    "ver": "V5",
+    "uid": "8387602613",
+    "uname": "Shahoffcial",
+    "name": "ＣＥＯ",
+    "ts": 1782997439747,
+    "tsStr": "2/7/2026, 21:03:59",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAJEsGpGYbZiEOQTZaHSr10snHOHLPObAALFGGsbmWAxVofqsrUhpHIYAQADAgADeAADPAQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
