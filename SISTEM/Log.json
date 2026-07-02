@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1779961240510PZ3",
-    "ts": 1779961240511,
-    "tsStr": "28/5/2026, 17:40:40",
-    "act": "START",
-    "uid": "8623176858",
-    "uname": "fayymarket",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779973206459Q5F",
     "ts": 1779973206459,
     "tsStr": "28/5/2026, 21:00:06",
@@ -5703,6 +5692,17 @@
     "uid": "8445934796",
     "uname": "JohnValen236723",
     "detail": "Member baru: 王 孙超",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782974353891JDI",
+    "ts": 1782974353891,
+    "tsStr": "2/7/2026, 14:39:13",
+    "act": "NEW_MEMBER",
+    "uid": "7635000561",
+    "uname": "NormanFlemi165291",
+    "detail": "Member baru: 高芳晶晶",
     "ver": "—",
     "phone": null
   }
