@@ -1,17 +1,5 @@
 [
   {
-    "id": "L177989668350811E",
-    "ts": 1779896683508,
-    "tsStr": "27/5/2026, 23:44:43",
-    "act": "AKSES_ADD",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Tambah akses V3: 1825733639",
-    "ver": "V3",
-    "phone": null,
-    "teleId": "1825733639"
-  },
-  {
     "id": "L177990841887274K",
     "ts": 1779908418872,
     "tsStr": "28/5/2026, 03:00:18",
@@ -5714,6 +5702,17 @@
     "uid": "7961446166",
     "uname": "D4mxorx",
     "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L17829742840570AT",
+    "ts": 1782974284057,
+    "tsStr": "2/7/2026, 14:38:04",
+    "act": "NEW_MEMBER",
+    "uid": "7291288654",
+    "uname": "hdihdihdigd",
+    "detail": "Member baru: Frau Prof. Dr. Christin Hansen B.Sc.",
     "ver": "—",
     "phone": null
   }
