@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1780124806066CYM",
-    "ts": 1780124806066,
-    "tsStr": "30/5/2026, 15:06:46",
-    "act": "DB_REQ",
-    "uid": "8477166862",
-    "uname": "RixxzzStore",
-    "detail": "Mohon tambah V4: 601128123220",
-    "ver": "V4",
-    "phone": "601128123220",
-    "requestId": "db_V4_8477166862_1780124804623"
-  },
-  {
     "id": "L1780125827163Y5J",
     "ts": 1780125827163,
     "tsStr": "30/5/2026, 15:23:47",
@@ -5694,6 +5682,17 @@
     "uid": "8328146666",
     "uname": "shapet7",
     "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782990864520EWJ",
+    "ts": 1782990864521,
+    "tsStr": "2/7/2026, 19:14:24",
+    "act": "START",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Login: MODERATOR",
     "ver": "—",
     "phone": null
   }
