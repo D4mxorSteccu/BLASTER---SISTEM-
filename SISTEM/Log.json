@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1780102764297F8F",
-    "ts": 1780102764297,
-    "tsStr": "30/5/2026, 08:59:24",
-    "act": "DB_REQ",
-    "uid": "8623176858",
-    "uname": "fayymarket",
-    "detail": "Mohon tambah V4: 60199910755",
-    "ver": "V4",
-    "phone": "60199910755",
-    "requestId": "db_V4_8623176858_1780102763288"
-  },
-  {
     "id": "L1780102771572DCF",
     "ts": 1780102771572,
     "tsStr": "30/5/2026, 08:59:31",
@@ -5699,6 +5687,17 @@
     "uid": "6195043307",
     "uname": "—",
     "detail": "Member baru: Maria",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782974423594OS6",
+    "ts": 1782974423594,
+    "tsStr": "2/7/2026, 14:40:23",
+    "act": "NEW_MEMBER",
+    "uid": "8162779189",
+    "uname": "PhilipCormi591940",
+    "detail": "Member baru: 何·孙超二",
     "ver": "—",
     "phone": null
   }
