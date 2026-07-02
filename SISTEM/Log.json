@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1780109754637WKV",
-    "ts": 1780109754637,
-    "tsStr": "30/5/2026, 10:55:54",
-    "act": "DB_REQ",
-    "uid": "8623176858",
-    "uname": "fayymarket",
-    "detail": "Mohon tambah V4: 60199910755",
-    "ver": "V4",
-    "phone": "60199910755",
-    "requestId": "db_V4_8623176858_1780109753378"
-  },
-  {
     "id": "L1780109946398Y1M",
     "ts": 1780109946398,
     "tsStr": "30/5/2026, 10:59:06",
@@ -5697,6 +5685,17 @@
     "uid": "6946122020",
     "uname": "llipyaw",
     "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782985044636F4G",
+    "ts": 1782985044636,
+    "tsStr": "2/7/2026, 17:37:24",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
   }
