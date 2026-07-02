@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1780107482851TF7",
-    "ts": 1780107482851,
-    "tsStr": "30/5/2026, 10:18:02",
-    "act": "DB_REQ",
-    "uid": "1776051218",
-    "uname": "Zakriss",
-    "detail": "Mohon tambah V3: 60173405887",
-    "ver": "V3",
-    "phone": "60173405887",
-    "requestId": "db_V3_1776051218_1780107481576"
-  },
-  {
     "id": "L1780109713124RKC",
     "ts": 1780109713124,
     "tsStr": "30/5/2026, 10:55:13",
@@ -5698,6 +5686,17 @@
     "uid": "7796960359",
     "uname": "adventurous_Bridal",
     "detail": "Member baru: Yunus",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782974514693G3X",
+    "ts": 1782974514693,
+    "tsStr": "2/7/2026, 14:41:54",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
   }
