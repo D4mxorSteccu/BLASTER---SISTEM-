@@ -1,17 +1,5 @@
 [
   {
-    "id": "L17799437871576YP",
-    "ts": 1779943787157,
-    "tsStr": "28/5/2026, 12:49:47",
-    "act": "DB_APPROVED",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Lulus V4: 60175592550",
-    "ver": "V4",
-    "phone": "60175592550",
-    "requestId": "db_V4_8512404465_1779943740453"
-  },
-  {
     "id": "L1779955168033Z43",
     "ts": 1779955168033,
     "tsStr": "28/5/2026, 15:59:28",
@@ -5706,6 +5694,17 @@
     "uid": "7330200269",
     "uname": "sibel9119",
     "detail": "Member baru: Sibel Turan",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782974329733BMT",
+    "ts": 1782974329733,
+    "tsStr": "2/7/2026, 14:38:49",
+    "act": "NEW_MEMBER",
+    "uid": "7740998433",
+    "uname": "MarySchle660583",
+    "detail": "Member baru: सोनिया",
     "ver": "—",
     "phone": null
   }
