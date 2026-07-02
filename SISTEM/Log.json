@@ -1,16 +1,5 @@
 [
   {
-    "id": "L178010273867625F",
-    "ts": 1780102738676,
-    "tsStr": "30/5/2026, 08:58:58",
-    "act": "START",
-    "uid": "1776051218",
-    "uname": "Zakriss",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L17801027598206YS",
     "ts": 1780102759820,
     "tsStr": "30/5/2026, 08:59:19",
@@ -5700,6 +5689,17 @@
     "uid": "7246921409",
     "uname": "Madina100000000000",
     "detail": "Member baru: Madina",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782974406146X7R",
+    "ts": 1782974406146,
+    "tsStr": "2/7/2026, 14:40:06",
+    "act": "NEW_MEMBER",
+    "uid": "8438436315",
+    "uname": "—",
+    "detail": "Member baru: 胡陈·霞",
     "ver": "—",
     "phone": null
   }
