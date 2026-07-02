@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1780125827163Y5J",
-    "ts": 1780125827163,
-    "tsStr": "30/5/2026, 15:23:47",
-    "act": "DB_APPROVED",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Lulus V3: 60173405887",
-    "ver": "V3",
-    "phone": "60173405887",
-    "requestId": "db_V3_1776051218_1780107481576"
-  },
-  {
     "id": "L17801317004702S9",
     "ts": 1780131700470,
     "tsStr": "30/5/2026, 17:01:40",
@@ -5693,6 +5681,17 @@
     "uid": "8477166862",
     "uname": "RixxzzStore",
     "detail": "Login: MODERATOR",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L17829974175540RD",
+    "ts": 1782997417554,
+    "tsStr": "2/7/2026, 21:03:37",
+    "act": "START",
+    "uid": "8387602613",
+    "uname": "Shahoffcial",
+    "detail": "Login: KING",
     "ver": "—",
     "phone": null
   }
