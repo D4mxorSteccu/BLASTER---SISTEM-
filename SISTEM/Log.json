@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1779973206459Q5F",
-    "ts": 1779973206459,
-    "tsStr": "28/5/2026, 21:00:06",
-    "act": "DB_REQ",
-    "uid": "8512404465",
-    "uname": "Kimi661",
-    "detail": "Mohon tambah V4: 60178538790",
-    "ver": "V4",
-    "phone": "60178538790",
-    "requestId": "db_V4_8512404465_1779973204796"
-  },
-  {
     "id": "L17800356003215V0",
     "ts": 1780035600321,
     "tsStr": "29/5/2026, 14:20:00",
@@ -5703,6 +5691,17 @@
     "uid": "7635000561",
     "uname": "NormanFlemi165291",
     "detail": "Member baru: 高芳晶晶",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782974357273CXJ",
+    "ts": 1782974357273,
+    "tsStr": "2/7/2026, 14:39:17",
+    "act": "NEW_MEMBER",
+    "uid": "5548531443",
+    "uname": "LeoSalas886751",
+    "detail": "Member baru: Leo",
     "ver": "—",
     "phone": null
   }
