@@ -1,18 +1,5 @@
 [
   {
-    "id": "L1779955793193IBX",
-    "ts": 1779955793193,
-    "tsStr": "28/5/2026, 16:09:53",
-    "act": "ADD2_REQ",
-    "uid": "6603350696",
-    "uname": "FionaMinang",
-    "detail": "Mohon nombor 2: 60199728408 → 60104291337",
-    "ver": "V4",
-    "phone": "60104291337",
-    "phone1": "60199728408",
-    "requestId": "add2_6603350696_1779955791953"
-  },
-  {
     "id": "L1779961240510PZ3",
     "ts": 1779961240511,
     "tsStr": "28/5/2026, 17:40:40",
@@ -5705,6 +5692,17 @@
     "uid": "5485273435",
     "uname": "ReneeJoine30120",
     "detail": "Member baru: Renee",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782974349210PR1",
+    "ts": 1782974349210,
+    "tsStr": "2/7/2026, 14:39:09",
+    "act": "NEW_MEMBER",
+    "uid": "8445934796",
+    "uname": "JohnValen236723",
+    "detail": "Member baru: 王 孙超",
     "ver": "—",
     "phone": null
   }
