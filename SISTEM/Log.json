@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1779942645787QVK",
-    "ts": 1779942645787,
-    "tsStr": "28/5/2026, 12:30:45",
-    "act": "AKSES_ADD",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Tambah akses V4: 8512404465",
-    "ver": "V4",
-    "phone": null,
-    "teleId": "8512404465"
-  },
-  {
     "id": "L17799427637994C6",
     "ts": 1779942763799,
     "tsStr": "28/5/2026, 12:32:43",
@@ -5712,6 +5700,17 @@
     "uid": "7670173670",
     "uname": "RobertLawre826912",
     "detail": "Member baru: Yolal",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782974297338EI7",
+    "ts": 1782974297338,
+    "tsStr": "2/7/2026, 14:38:17",
+    "act": "NEW_MEMBER",
+    "uid": "7249618611",
+    "uname": "—",
+    "detail": "Member baru: 桂兰",
     "ver": "—",
     "phone": null
   }
