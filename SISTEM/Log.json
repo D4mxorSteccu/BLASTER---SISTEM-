@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1779955168033Z43",
-    "ts": 1779955168033,
-    "tsStr": "28/5/2026, 15:59:28",
-    "act": "START",
-    "uid": "6603350696",
-    "uname": "FionaMinang",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1779955793193IBX",
     "ts": 1779955793193,
     "tsStr": "28/5/2026, 16:09:53",
@@ -5705,6 +5694,17 @@
     "uid": "7740998433",
     "uname": "MarySchle660583",
     "detail": "Member baru: सोनिया",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L17829743461728FQ",
+    "ts": 1782974346172,
+    "tsStr": "2/7/2026, 14:39:06",
+    "act": "NEW_MEMBER",
+    "uid": "5485273435",
+    "uname": "ReneeJoine30120",
+    "detail": "Member baru: Renee",
     "ver": "—",
     "phone": null
   }
