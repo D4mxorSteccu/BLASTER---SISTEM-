@@ -1,17 +1,5 @@
 [
   {
-    "id": "L17800356119836JW",
-    "ts": 1780035611983,
-    "tsStr": "29/5/2026, 14:20:11",
-    "act": "DB_APPROVED",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Lulus V4: 60169328115",
-    "ver": "V4",
-    "phone": "60169328115",
-    "requestId": "db_V4_1303593264_1780035599196"
-  },
-  {
     "id": "L17801027066090VT",
     "ts": 1780102706609,
     "tsStr": "30/5/2026, 08:58:26",
@@ -5701,6 +5689,17 @@
     "uid": "5492773286",
     "uname": "LisaSanch1223",
     "detail": "Member baru: Lisa",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782974393440AH1",
+    "ts": 1782974393440,
+    "tsStr": "2/7/2026, 14:39:53",
+    "act": "NEW_MEMBER",
+    "uid": "7288416535",
+    "uname": "wpfkwncj",
+    "detail": "Member baru: ירון שמעוני",
     "ver": "—",
     "phone": null
   }
