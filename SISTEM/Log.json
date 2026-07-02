@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780102771572DCF",
-    "ts": 1780102771572,
-    "tsStr": "30/5/2026, 08:59:31",
-    "act": "START",
-    "uid": "1303593264",
-    "uname": "Zadmxz",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780107463740Y86",
     "ts": 1780107463740,
     "tsStr": "30/5/2026, 10:17:43",
@@ -5698,6 +5687,17 @@
     "uid": "8162779189",
     "uname": "PhilipCormi591940",
     "detail": "Member baru: 何·孙超二",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1782974426544TLY",
+    "ts": 1782974426544,
+    "tsStr": "2/7/2026, 14:40:26",
+    "act": "NEW_MEMBER",
+    "uid": "6237413516",
+    "uname": "—",
+    "detail": "Member baru: Donald",
     "ver": "—",
     "phone": null
   }
