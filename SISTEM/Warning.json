@@ -172,5 +172,18 @@
       }
     ],
     "lastAt": 1783000915174
+  },
+  "6122554494": {
+    "count": 1,
+    "reasons": [
+      {
+        "reason": "Bukti komisen palsu",
+        "by": "7961446166",
+        "byUname": "CoinMarketCap_Official_Service95",
+        "at": 1783070229585,
+        "atStr": "3/7/2026, 17:17:09"
+      }
+    ],
+    "lastAt": 1783070229586
   }
 }
