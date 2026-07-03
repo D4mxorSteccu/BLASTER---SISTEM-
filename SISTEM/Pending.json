@@ -2637,7 +2637,11 @@
     "name": "⏤͟͟ Shapet 𝖋𝖙 𝗫͢𝘅𝗫",
     "ts": 1783069007949,
     "tsStr": "3/7/2026, 16:56:47",
-    "status": "pending",
-    "country": "Malaysia"
+    "status": "approved",
+    "country": "Malaysia",
+    "by": "7961446166",
+    "byUname": "CoinMarketCap_Official_Service95",
+    "at": 1783069970294,
+    "atStr": "3/7/2026, 17:12:50"
   }
 ]
