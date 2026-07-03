@@ -2643,5 +2643,23 @@
     "byUname": "CoinMarketCap_Official_Service95",
     "at": 1783069970294,
     "atStr": "3/7/2026, 17:12:50"
+  },
+  {
+    "id": "db_V4_6122554494_1783070067375",
+    "type": "db_add",
+    "phone": "601159198675",
+    "ver": "V4",
+    "uid": "6122554494",
+    "uname": "Mel_Reseller",
+    "name": "Mel Reseller #SWK_00",
+    "ts": 1783070067375,
+    "tsStr": "3/7/2026, 17:14:27",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAJGPmpHfTopHQQRbcaihvkAAStuc7h7fgACtxBrG0w-QFY48Gj1ZcsW6QEAAwIAA3kAAzwE",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
