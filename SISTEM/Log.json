@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780216309771P0W",
-    "ts": 1780216309771,
-    "tsStr": "31/5/2026, 16:31:49",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780216319391TJT",
     "ts": 1780216319391,
     "tsStr": "31/5/2026, 16:31:59",
@@ -5693,5 +5682,17 @@
     "detail": "Login: KING",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17830397481520IC",
+    "ts": 1783039748152,
+    "tsStr": "3/7/2026, 08:49:08",
+    "act": "DB_REQ",
+    "uid": "8387602613",
+    "uname": "Shahoffcial",
+    "detail": "Mohon tambah V4: 601170037150",
+    "ver": "V4",
+    "phone": "601170037150",
+    "requestId": "db_V4_8387602613_1783039747023"
   }
 ]
