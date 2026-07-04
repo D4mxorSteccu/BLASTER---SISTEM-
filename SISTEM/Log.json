@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1780276383394TUA",
-    "ts": 1780276383394,
-    "tsStr": "1/6/2026, 09:13:03",
-    "act": "DB_APPROVED",
-    "uid": "8206532657",
-    "uname": "NishOnlyyy",
-    "detail": "Lulus V3: 60177622996",
-    "ver": "V3",
-    "phone": "60177622996",
-    "requestId": "db_V3_1776051218_1780275101518"
-  },
-  {
     "id": "L178028697168926U",
     "ts": 1780286971689,
     "tsStr": "1/6/2026, 12:09:31",
@@ -5693,5 +5681,16 @@
     "ver": "V4",
     "phone": "60129845186",
     "requestId": "db_V4_822721362_1783135424405"
+  },
+  {
+    "id": "L1783135558187KRB",
+    "ts": 1783135558187,
+    "tsStr": "4/7/2026, 11:25:58",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "CoinMarketCap_Official_Service95",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
