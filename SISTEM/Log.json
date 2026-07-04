@@ -1,16 +1,5 @@
 [
   {
-    "id": "L178028697168926U",
-    "ts": 1780286971689,
-    "tsStr": "1/6/2026, 12:09:31",
-    "act": "START",
-    "uid": "1776051218",
-    "uname": "Zakriss",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780286989360Y2L",
     "ts": 1780286989360,
     "tsStr": "1/6/2026, 12:09:49",
@@ -5692,5 +5681,17 @@
     "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1783135577209LMD",
+    "ts": 1783135577209,
+    "tsStr": "4/7/2026, 11:26:17",
+    "act": "AKSES_ADD",
+    "uid": "7961446166",
+    "uname": "CoinMarketCap_Official_Service95",
+    "detail": "Tambah akses V5: 7540495390",
+    "ver": "V5",
+    "phone": null,
+    "teleId": "7540495390"
   }
 ]
