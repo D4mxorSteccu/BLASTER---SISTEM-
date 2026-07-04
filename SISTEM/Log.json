@@ -1,17 +1,5 @@
 [
   {
-    "id": "L178029446708951K",
-    "ts": 1780294467089,
-    "tsStr": "1/6/2026, 14:14:27",
-    "act": "DEL_REQ",
-    "uid": "1303593264",
-    "uname": "Zadmxz",
-    "detail": "Mohon padam V4: 60172433091",
-    "ver": "V4",
-    "phone": "60172433091",
-    "requestId": "del_V4_1303593264_1780294465671"
-  },
-  {
     "id": "L17802947768412Q9",
     "ts": 1780294776841,
     "tsStr": "1/6/2026, 14:19:36",
@@ -5690,6 +5678,17 @@
     "uid": "7540495390",
     "uname": "D4mxorV",
     "detail": "Login: RESELLER_V5",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1783136317857WX2",
+    "ts": 1783136317857,
+    "tsStr": "4/7/2026, 11:38:37",
+    "act": "START",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Login: MODERATOR",
     "ver": "—",
     "phone": null
   }
