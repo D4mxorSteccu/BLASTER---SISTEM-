@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780329500262CIX",
-    "ts": 1780329500262,
-    "tsStr": "1/6/2026, 23:58:20",
-    "act": "START",
-    "uid": "6746319597",
-    "uname": "acapzx123",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L17803298151479DB",
     "ts": 1780329815147,
     "tsStr": "2/6/2026, 00:03:35",
@@ -5690,5 +5679,16 @@
     "ver": "V4",
     "phone": "60193658030",
     "requestId": "db_V4_1303593264_1783239818587"
+  },
+  {
+    "id": "L17832412738031JK",
+    "ts": 1783241273803,
+    "tsStr": "5/7/2026, 16:47:53",
+    "act": "START",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Login: MODERATOR",
+    "ver": "—",
+    "phone": null
   }
 ]
