@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1780295031730DKZ",
-    "ts": 1780295031730,
-    "tsStr": "1/6/2026, 14:23:51",
-    "act": "DB_REQ",
-    "uid": "8477166862",
-    "uname": "RixxzzStore",
-    "detail": "Mohon tambah V3: 601164688055",
-    "ver": "V3",
-    "phone": "601164688055",
-    "requestId": "db_V3_8477166862_1780295030467"
-  },
-  {
     "id": "L17802962722310EY",
     "ts": 1780296272231,
     "tsStr": "1/6/2026, 14:44:32",
@@ -5687,6 +5675,17 @@
     "uid": "1825733639",
     "uname": "D4mxoro",
     "detail": "Login: RESELLER_V5",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1783219948949CBQ",
+    "ts": 1783219948949,
+    "tsStr": "5/7/2026, 10:52:28",
+    "act": "START",
+    "uid": "8220023285",
+    "uname": "fiqueesec",
+    "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
   }
