@@ -1,18 +1,5 @@
 [
   {
-    "id": "L17803298151479DB",
-    "ts": 1780329815147,
-    "tsStr": "2/6/2026, 00:03:35",
-    "act": "ADD2_REQ",
-    "uid": "6746319597",
-    "uname": "acapzx123",
-    "detail": "Mohon nombor 2: 601169927331 → 601159109583",
-    "ver": "V4",
-    "phone": "601159109583",
-    "phone1": "601169927331",
-    "requestId": "add2_6746319597_1780329813649"
-  },
-  {
     "id": "L17803303913577YZ",
     "ts": 1780330391358,
     "tsStr": "2/6/2026, 00:13:11",
@@ -5688,6 +5675,17 @@
     "uid": "8477166862",
     "uname": "RixxzzStore",
     "detail": "Login: MODERATOR",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1783246416981WJ3",
+    "ts": 1783246416981,
+    "tsStr": "5/7/2026, 18:13:36",
+    "act": "START",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
+    "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
   }
