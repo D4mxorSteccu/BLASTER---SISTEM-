@@ -2705,5 +2705,23 @@
     "byUname": "RixxzzStore",
     "at": 1783135468927,
     "atStr": "4/7/2026, 11:24:28"
+  },
+  {
+    "id": "db_V4_1303593264_1783229698182",
+    "type": "db_add",
+    "phone": "601165745156",
+    "ver": "V4",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
+    "name": "A",
+    "ts": 1783229698182,
+    "tsStr": "5/7/2026, 13:34:58",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAJGzGpJ6heNevLi1KJfPC3Hi_Uouqt8AAKaEmsbDlxJVjhJ5w8fX5ZyAQADAgADeQADPAQ",
+    "ulasan": "new buyer",
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
