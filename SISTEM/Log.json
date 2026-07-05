@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780326117033ZFC",
-    "ts": 1780326117033,
-    "tsStr": "1/6/2026, 23:01:57",
-    "act": "START",
-    "uid": "1983044179",
-    "uname": "Kizxxgacor",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780329500262CIX",
     "ts": 1780329500262,
     "tsStr": "1/6/2026, 23:58:20",
@@ -5689,5 +5678,17 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1783239819700J8R",
+    "ts": 1783239819700,
+    "tsStr": "5/7/2026, 16:23:39",
+    "act": "DB_REQ",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
+    "detail": "Mohon tambah V4: 60193658030",
+    "ver": "V4",
+    "phone": "60193658030",
+    "requestId": "db_V4_1303593264_1783239818587"
   }
 ]
