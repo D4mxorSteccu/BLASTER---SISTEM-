@@ -2727,5 +2727,19 @@
     "byUname": "RixxzzStore",
     "at": 1783229713701,
     "atStr": "5/7/2026, 13:35:13"
+  },
+  {
+    "id": "add2_1303593264_1783230580855",
+    "type": "add2",
+    "phone": "6285545116698",
+    "phone1": "601165745156",
+    "ulasan": "no sec untuk open promote",
+    "ver": "V4",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
+    "name": "A",
+    "ts": 1783230580855,
+    "tsStr": "5/7/2026, 13:49:40",
+    "status": "pending"
   }
 ]
