@@ -2767,5 +2767,18 @@
     "byUname": "RixxzzStore",
     "at": 1783240210932,
     "atStr": "5/7/2026, 16:30:10"
+  },
+  {
+    "id": "del_V4_1303593264_1783246428967",
+    "type": "del_req",
+    "phone": "6285545116698",
+    "ver": "V4",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
+    "name": "A",
+    "ts": 1783246428967,
+    "tsStr": "5/7/2026, 18:13:48",
+    "status": "pending",
+    "country": "Indonesia"
   }
 ]
