@@ -1,16 +1,5 @@
 [
   {
-    "id": "L17803303913577YZ",
-    "ts": 1780330391358,
-    "tsStr": "2/6/2026, 00:13:11",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780330463053NQ0",
     "ts": 1780330463053,
     "tsStr": "2/6/2026, 00:14:23",
@@ -5688,5 +5677,17 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1783246430152GXB",
+    "ts": 1783246430152,
+    "tsStr": "5/7/2026, 18:13:50",
+    "act": "DEL_REQ",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
+    "detail": "Mohon padam V4: 6285545116698",
+    "ver": "V4",
+    "phone": "6285545116698",
+    "requestId": "del_V4_1303593264_1783246428967"
   }
 ]
