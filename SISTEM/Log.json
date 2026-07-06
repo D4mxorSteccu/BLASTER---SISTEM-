@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780332262756ML2",
-    "ts": 1780332262756,
-    "tsStr": "2/6/2026, 00:44:22",
-    "act": "START",
-    "uid": "8220023285",
-    "uname": "fiqueesenpai",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780332337934SRN",
     "ts": 1780332337934,
     "tsStr": "2/6/2026, 00:45:37",
@@ -5687,6 +5676,17 @@
     "uid": "7961446166",
     "uname": "CoinMarketCap_Official_Service95",
     "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1783346015755VGU",
+    "ts": 1783346015755,
+    "tsStr": "6/7/2026, 21:53:35",
+    "act": "START",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Login: MODERATOR",
     "ver": "—",
     "phone": null
   }
