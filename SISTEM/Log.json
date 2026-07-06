@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780330624656ZWQ",
-    "ts": 1780330624656,
-    "tsStr": "2/6/2026, 00:17:04",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780332262756ML2",
     "ts": 1780332262756,
     "tsStr": "2/6/2026, 00:44:22",
@@ -5687,6 +5676,17 @@
     "uid": "8465749326",
     "uname": "marmy5",
     "detail": "Login: MODERATOR",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L17833458560318RY",
+    "ts": 1783345856031,
+    "tsStr": "6/7/2026, 21:50:56",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "CoinMarketCap_Official_Service95",
+    "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
   }
