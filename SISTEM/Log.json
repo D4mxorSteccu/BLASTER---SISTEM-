@@ -1,16 +1,5 @@
 [
   {
-    "id": "L17803354564530FG",
-    "ts": 1780335456453,
-    "tsStr": "2/6/2026, 01:37:36",
-    "act": "START",
-    "uid": "8273587591",
-    "uname": "flacko17",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780366495238C8I",
     "ts": 1780366495238,
     "tsStr": "2/6/2026, 10:14:55",
@@ -5685,6 +5674,17 @@
     "uid": "7961446166",
     "uname": "CoinMarketCap_Official_Service95",
     "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1783433798340ANI",
+    "ts": 1783433798340,
+    "tsStr": "7/7/2026, 22:16:38",
+    "act": "START",
+    "uid": "8477166862",
+    "uname": "RixxzzStore",
+    "detail": "Login: MODERATOR",
     "ver": "—",
     "phone": null
   }
