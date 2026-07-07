@@ -1,18 +1,5 @@
 [
   {
-    "id": "L1780332337934SRN",
-    "ts": 1780332337934,
-    "tsStr": "2/6/2026, 00:45:37",
-    "act": "ADD2_REQ",
-    "uid": "8220023285",
-    "uname": "fiqueesenpai",
-    "detail": "Mohon nombor 2: 601130300767 → 601174540344",
-    "ver": "V4",
-    "phone": "601174540344",
-    "phone1": "601130300767",
-    "requestId": "add2_8220023285_1780332336501"
-  },
-  {
     "id": "L17803354564530FG",
     "ts": 1780335456453,
     "tsStr": "2/6/2026, 01:37:36",
@@ -5687,6 +5674,17 @@
     "uid": "8477166862",
     "uname": "RixxzzStore",
     "detail": "Login: MODERATOR",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1783426799167YP3",
+    "ts": 1783426799167,
+    "tsStr": "7/7/2026, 20:19:59",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "CoinMarketCap_Official_Service95",
+    "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
   }
