@@ -2830,7 +2830,11 @@
     "name": "𝑴𝒚𝑳𝒐𝒗𝒆𝑭𝒊𝒐𝒏𝒂ᰔᩚ",
     "ts": 1783506386953,
     "tsStr": "8/7/2026, 18:26:26",
-    "status": "pending",
-    "country": "Malaysia"
+    "status": "approved",
+    "country": "Malaysia",
+    "by": "7961446166",
+    "byUname": "Official_Monzo_Support_Service16",
+    "at": 1783510338285,
+    "atStr": "8/7/2026, 19:32:18"
   }
 ]
