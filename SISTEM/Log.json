@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780375537243ZK6",
-    "ts": 1780375537243,
-    "tsStr": "2/6/2026, 12:45:37",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780375550575II0",
     "ts": 1780375550575,
     "tsStr": "2/6/2026, 12:45:50",
@@ -5685,5 +5674,16 @@
     "ver": "V4",
     "phone": "60104296623",
     "requestId": "del_V4_6603350696_1783506386953"
+  },
+  {
+    "id": "L1783510720537JAW",
+    "ts": 1783510720537,
+    "tsStr": "8/7/2026, 19:38:40",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "Official_Monzo_Support_Service16",
+    "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
   }
 ]
