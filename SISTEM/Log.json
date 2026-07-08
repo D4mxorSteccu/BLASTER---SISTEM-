@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780375598929V7X",
-    "ts": 1780375598929,
-    "tsStr": "2/6/2026, 12:46:38",
-    "act": "GRP_DEL_RGRP",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Buang Reseller Group: -1003785170196",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780375614121DTR",
     "ts": 1780375614121,
     "tsStr": "2/6/2026, 12:46:54",
@@ -5682,6 +5671,17 @@
     "uid": "8477166862",
     "uname": "RixxzzStore",
     "detail": "Login: MODERATOR",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1783513899681F1J",
+    "ts": 1783513899681,
+    "tsStr": "8/7/2026, 20:31:39",
+    "act": "START",
+    "uid": "8328146666",
+    "uname": "shapet7",
+    "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
   }
