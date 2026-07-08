@@ -2819,5 +2819,18 @@
     "byUname": "Official_Monzo_Support_Service16",
     "at": 1783500349959,
     "atStr": "8/7/2026, 16:45:49"
+  },
+  {
+    "id": "del_V4_6603350696_1783506386953",
+    "type": "del_req",
+    "phone": "60104296623",
+    "ver": "V4",
+    "uid": "6603350696",
+    "uname": "FionaMinang",
+    "name": "𝑴𝒚𝑳𝒐𝒗𝒆𝑭𝒊𝒐𝒏𝒂ᰔᩚ",
+    "ts": 1783506386953,
+    "tsStr": "8/7/2026, 18:26:26",
+    "status": "pending",
+    "country": "Malaysia"
   }
 ]
