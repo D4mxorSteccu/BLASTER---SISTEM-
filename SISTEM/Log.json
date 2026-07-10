@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1780423405407ZFS",
-    "ts": 1780423405407,
-    "tsStr": "3/6/2026, 02:03:25",
-    "act": "AKSES_DEL",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "Buang akses V4: 1776051218",
-    "ver": "V4",
-    "phone": null,
-    "teleId": "1776051218"
-  },
-  {
     "id": "L1780452390909LUX",
     "ts": 1780452390909,
     "tsStr": "3/6/2026, 10:06:30",
@@ -5685,6 +5673,18 @@
     "uid": "6603350696",
     "uname": "FionaMinang",
     "detail": "Mohon padam V4: 60147081898",
+    "ver": "V4",
+    "phone": "60147081898",
+    "requestId": "del_V4_6603350696_1783724004212"
+  },
+  {
+    "id": "L1783725232441S83",
+    "ts": 1783725232442,
+    "tsStr": "11/7/2026, 07:13:52",
+    "act": "DB_DEL_APPROVED",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Lulus padam V4: 60147081898",
     "ver": "V4",
     "phone": "60147081898",
     "requestId": "del_V4_6603350696_1783724004212"
