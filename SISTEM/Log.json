@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780454812296RFC",
-    "ts": 1780454812296,
-    "tsStr": "3/6/2026, 10:46:52",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "Official_Support_Binance404",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780454824720LX0",
     "ts": 1780454824720,
     "tsStr": "3/6/2026, 10:47:04",
@@ -5685,6 +5674,19 @@
     "uid": "6603350696",
     "uname": "FionaMinang",
     "detail": "Mohon nombor 2: 60199728408 → 60104296623",
+    "ver": "V4",
+    "phone": "60104296623",
+    "phone1": "60199728408",
+    "requestId": "add2_6603350696_1783725552644"
+  },
+  {
+    "id": "L1783726088932LHO",
+    "ts": 1783726088932,
+    "tsStr": "11/7/2026, 07:28:08",
+    "act": "ADD2_APPROVED",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Lulus nombor 2: 60199728408 → 60104296623",
     "ver": "V4",
     "phone": "60104296623",
     "phone1": "60199728408",
