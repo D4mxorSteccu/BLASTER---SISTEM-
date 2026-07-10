@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780410992191UM0",
-    "ts": 1780410992191,
-    "tsStr": "2/6/2026, 22:36:32",
-    "act": "ROLE_ADD",
-    "uid": "7961446166",
-    "uname": "D4mxorx",
-    "detail": "moderators: 8479873676",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780411005661IOH",
     "ts": 1780411005661,
     "tsStr": "2/6/2026, 22:36:45",
@@ -5685,5 +5674,18 @@
     "detail": "Login: MODERATOR",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1783681228709E4P",
+    "ts": 1783681228709,
+    "tsStr": "10/7/2026, 19:00:28",
+    "act": "BROADCAST",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Broadcast ke 199 pengguna",
+    "ver": "—",
+    "phone": null,
+    "ok": 199,
+    "fail": 72
   }
 ]
