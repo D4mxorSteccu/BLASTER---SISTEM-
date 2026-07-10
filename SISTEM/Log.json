@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780410933223I30",
-    "ts": 1780410933223,
-    "tsStr": "2/6/2026, 22:35:33",
-    "act": "NEW_MEMBER",
-    "uid": "8479873676",
-    "uname": "—",
-    "detail": "Member baru: ᖭ",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780410974255UGH",
     "ts": 1780410974255,
     "tsStr": "2/6/2026, 22:36:14",
@@ -5683,6 +5672,17 @@
     "uid": "8477166862",
     "uname": "RixxzzStore",
     "detail": "Login: MODERATOR",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1783681060775508",
+    "ts": 1783681060775,
+    "tsStr": "10/7/2026, 18:57:40",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
   }
