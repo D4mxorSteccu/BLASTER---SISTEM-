@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780411005661IOH",
-    "ts": 1780411005661,
-    "tsStr": "2/6/2026, 22:36:45",
-    "act": "START",
-    "uid": "8479873676",
-    "uname": "—",
-    "detail": "Login: MODERATOR",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780411079724NRK",
     "ts": 1780411079724,
     "tsStr": "2/6/2026, 22:37:59",
@@ -5687,5 +5676,16 @@
     "phone": null,
     "ok": 199,
     "fail": 72
+  },
+  {
+    "id": "L1783681798840NBX",
+    "ts": 1783681798840,
+    "tsStr": "10/7/2026, 19:09:58",
+    "act": "START",
+    "uid": "8439178661",
+    "uname": "Mikey2330",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
   }
 ]
