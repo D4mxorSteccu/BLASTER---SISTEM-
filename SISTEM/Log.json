@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1780454833509A3K",
-    "ts": 1780454833509,
-    "tsStr": "3/6/2026, 10:47:13",
-    "act": "AKSES_ADD",
-    "uid": "7961446166",
-    "uname": "Official_Support_Binance404",
-    "detail": "Tambah akses V3: 1872132577",
-    "ver": "V3",
-    "phone": null,
-    "teleId": "1872132577"
-  },
-  {
     "id": "L1780481246058AKD",
     "ts": 1780481246058,
     "tsStr": "3/6/2026, 18:07:26",
@@ -5690,5 +5678,16 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L17837380398548P0",
+    "ts": 1783738039854,
+    "tsStr": "11/7/2026, 10:47:19",
+    "act": "SEMAK",
+    "uid": "8220023285",
+    "uname": "fiqueesec",
+    "detail": "Semak: 601130300767",
+    "ver": "—",
+    "phone": "601130300767"
   }
 ]
