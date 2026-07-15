@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780484632964LK2",
-    "ts": 1780484632964,
-    "tsStr": "3/6/2026, 19:03:52",
-    "act": "START",
-    "uid": "8477166862",
-    "uname": "RixxzzStore",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780490072579QJU",
     "ts": 1780490072579,
     "tsStr": "3/6/2026, 20:34:32",
@@ -5686,5 +5675,18 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1784105169981FY8",
+    "ts": 1784105169981,
+    "tsStr": "15/7/2026, 16:46:09",
+    "act": "BROADCAST",
+    "uid": "7961446166",
+    "uname": "D4mxorx",
+    "detail": "Broadcast ke 199 pengguna",
+    "ver": "—",
+    "phone": null,
+    "ok": 199,
+    "fail": 73
   }
 ]
