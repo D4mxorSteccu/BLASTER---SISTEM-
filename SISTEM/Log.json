@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780505572870EDP",
-    "ts": 1780505572870,
-    "tsStr": "4/6/2026, 00:52:52",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "Official_Support_Binance404",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L17805101782268D9",
     "ts": 1780510178226,
     "tsStr": "4/6/2026, 02:09:38",
@@ -5680,6 +5669,17 @@
     "id": "L1784105501636E35",
     "ts": 1784105501636,
     "tsStr": "15/7/2026, 16:51:41",
+    "act": "START",
+    "uid": "1043995204",
+    "uname": "Zakrissss",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1784105541181JAH",
+    "ts": 1784105541181,
+    "tsStr": "15/7/2026, 16:52:21",
     "act": "START",
     "uid": "1043995204",
     "uname": "Zakrissss",
