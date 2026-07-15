@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1780546180393GV5",
-    "ts": 1780546180393,
-    "tsStr": "4/6/2026, 12:09:40",
-    "act": "DB_REQ",
-    "uid": "8465749326",
-    "uname": "marmy5",
-    "detail": "Mohon tambah V4: 60179214152",
-    "ver": "V4",
-    "phone": "60179214152",
-    "requestId": "db_V4_8465749326_1780546178911"
-  },
-  {
     "id": "L17805670559518I1",
     "ts": 1780567055951,
     "tsStr": "4/6/2026, 17:57:35",
@@ -5682,6 +5670,17 @@
     "act": "START",
     "uid": "8011120970",
     "uname": "hamzukixstore",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1784124949999S25",
+    "ts": 1784124950000,
+    "tsStr": "15/7/2026, 22:15:50",
+    "act": "START",
+    "uid": "1303593264",
+    "uname": "Zadmxz",
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
