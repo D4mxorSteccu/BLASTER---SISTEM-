@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780539890054LFX",
-    "ts": 1780539890054,
-    "tsStr": "4/6/2026, 10:24:50",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "Official_Support_Binance404",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780539933437BYE",
     "ts": 1780539933437,
     "tsStr": "4/6/2026, 10:25:33",
@@ -5678,6 +5667,17 @@
     "id": "L1784105933144RZY",
     "ts": 1784105933144,
     "tsStr": "15/7/2026, 16:58:53",
+    "act": "START",
+    "uid": "8477166862",
+    "uname": "Rixxzzgnteng",
+    "detail": "Login: MODERATOR",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1784106119674JET",
+    "ts": 1784106119674,
+    "tsStr": "15/7/2026, 17:01:59",
     "act": "START",
     "uid": "8477166862",
     "uname": "Rixxzzgnteng",
