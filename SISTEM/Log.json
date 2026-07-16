@@ -1,18 +1,5 @@
 [
   {
-    "id": "L1780579451856F4K",
-    "ts": 1780579451856,
-    "tsStr": "4/6/2026, 21:24:11",
-    "act": "ADD2_REQ",
-    "uid": "7717935018",
-    "uname": "7717935018",
-    "detail": "Mohon nombor 2: 60132236031 → 60163021560",
-    "ver": "V4",
-    "phone": "60163021560",
-    "phone1": "60132236031",
-    "requestId": "add2_7717935018_1780579450163"
-  },
-  {
     "id": "L1780582253716VRM",
     "ts": 1780582253716,
     "tsStr": "4/6/2026, 22:10:53",
@@ -5685,6 +5672,17 @@
     "uid": "8387602613",
     "uname": "Shahoffcial",
     "detail": "Login: KING",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1784199656770HTZ",
+    "ts": 1784199656770,
+    "tsStr": "16/7/2026, 19:00:56",
+    "act": "START",
+    "uid": "8477166862",
+    "uname": "Rixxzzgnteng",
+    "detail": "Login: MODERATOR",
     "ver": "—",
     "phone": null
   }
