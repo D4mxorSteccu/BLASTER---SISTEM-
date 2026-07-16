@@ -1,16 +1,5 @@
 [
   {
-    "id": "L17805684812489JR",
-    "ts": 1780568481248,
-    "tsStr": "4/6/2026, 18:21:21",
-    "act": "START",
-    "uid": "6746319597",
-    "uname": "acapzx123",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780568561088S2Q",
     "ts": 1780568561088,
     "tsStr": "4/6/2026, 18:22:41",
@@ -5681,6 +5670,17 @@
     "uid": "8477166862",
     "uname": "Rixxzzgnteng",
     "detail": "Login: MODERATOR",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1784185509787E7W",
+    "ts": 1784185509807,
+    "tsStr": "16/7/2026, 15:05:09",
+    "act": "START",
+    "uid": "8387602613",
+    "uname": "Shahoffcial",
+    "detail": "Login: KING",
     "ver": "—",
     "phone": null
   }
