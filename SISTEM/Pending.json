@@ -2999,5 +2999,18 @@
     "byUname": "Rixxzzgnteng",
     "at": 1784107147759,
     "atStr": "15/7/2026, 17:19:07"
+  },
+  {
+    "id": "del_V4_6603350696_1784187230553",
+    "type": "del_req",
+    "phone": "60104296623",
+    "ver": "V4",
+    "uid": "6603350696",
+    "uname": "FionaMinang",
+    "name": "𝑴𝒚𝑳𝒐𝒗𝒆𝑭𝒊𝒐𝒏𝒂ᰔᩚ",
+    "ts": 1784187230553,
+    "tsStr": "16/7/2026, 15:33:50",
+    "status": "pending",
+    "country": "Malaysia"
   }
 ]
