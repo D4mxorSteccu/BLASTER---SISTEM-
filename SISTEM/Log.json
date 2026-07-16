@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780571533190QC4",
-    "ts": 1780571533190,
-    "tsStr": "4/6/2026, 19:12:13",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "Official_Support_Binance404",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780571558264MK0",
     "ts": 1780571558264,
     "tsStr": "4/6/2026, 19:12:38",
@@ -5681,5 +5670,17 @@
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1784187233482RTW",
+    "ts": 1784187233482,
+    "tsStr": "16/7/2026, 15:33:53",
+    "act": "DEL_REQ",
+    "uid": "6603350696",
+    "uname": "FionaMinang",
+    "detail": "Mohon padam V4: 60104296623",
+    "ver": "V4",
+    "phone": "60104296623",
+    "requestId": "del_V4_6603350696_1784187230553"
   }
 ]
