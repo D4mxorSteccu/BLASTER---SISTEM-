@@ -3034,5 +3034,23 @@
     "byUname": "D4mxorx",
     "at": 1784193644253,
     "atStr": "16/7/2026, 17:20:44"
+  },
+  {
+    "id": "db_V4_8112732289_1784200493737",
+    "type": "db_add",
+    "phone": "601170037150",
+    "ver": "V4",
+    "uid": "8112732289",
+    "uname": "Kael_V1",
+    "name": "Kael Store",
+    "ts": 1784200493737,
+    "tsStr": "16/7/2026, 19:14:53",
+    "status": "pending",
+    "country": "Malaysia",
+    "proofFileId": "AgACAgUAAxkBAAJMjWpYvCrICfQq6Xf37ftuy7Cwai8TAAKRD2sbxMDJVtIJWT6Q_cuHAQADAgADdwADPQQ",
+    "ulasan": null,
+    "username": null,
+    "storagePkg": null,
+    "isUpgrade": false
   }
 ]
