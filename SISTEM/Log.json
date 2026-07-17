@@ -1,16 +1,5 @@
 [
   {
-    "id": "L1780599903927LD7",
-    "ts": 1780599903927,
-    "tsStr": "5/6/2026, 03:05:03",
-    "act": "START",
-    "uid": "7961446166",
-    "uname": "Official_Support_Binance404",
-    "detail": "Login: SUPER_OWNER",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780622189506G6B",
     "ts": 1780622189506,
     "tsStr": "5/6/2026, 09:16:29",
@@ -5686,5 +5675,17 @@
     "detail": "Login: MODERATOR",
     "ver": "—",
     "phone": null
+  },
+  {
+    "id": "L1784273504417VAB",
+    "ts": 1784273504417,
+    "tsStr": "17/7/2026, 15:31:44",
+    "act": "DB_REQ",
+    "uid": "8328146666",
+    "uname": "shapet7",
+    "detail": "Mohon tambah V4: 60102795079",
+    "ver": "V4",
+    "phone": "60102795079",
+    "requestId": "db_V4_8328146666_1784273500781"
   }
 ]
