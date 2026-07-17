@@ -3056,5 +3056,18 @@
     "byUname": "Shahoffcial",
     "at": 1784200502475,
     "atStr": "16/7/2026, 19:15:02"
+  },
+  {
+    "id": "del_V4_8328146666_1784272340228",
+    "type": "del_req",
+    "phone": "6285124949443",
+    "ver": "V4",
+    "uid": "8328146666",
+    "uname": "shapet7",
+    "name": "⏤͟͟ Shapet 𝖋𝖙 𝗫͢𝘅𝗫",
+    "ts": 1784272340228,
+    "tsStr": "17/7/2026, 15:12:20",
+    "status": "pending",
+    "country": "Indonesia"
   }
 ]
