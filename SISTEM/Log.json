@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1780669368909JCH",
-    "ts": 1780669368909,
-    "tsStr": "5/6/2026, 22:22:48",
-    "act": "DB_REJECTED",
-    "uid": "7961446166",
-    "uname": "Official_Support_Binance404",
-    "detail": "Tolak V4: 63773848499",
-    "ver": "V4",
-    "phone": "63773848499",
-    "requestId": "db_V4_7961446166_1780669356294"
-  },
-  {
     "id": "L1780721972185KAH",
     "ts": 1780721972185,
     "tsStr": "6/6/2026, 12:59:32",
@@ -5685,6 +5673,17 @@
     "uid": "7961446166",
     "uname": "Dammm117",
     "detail": "Login: SUPER_OWNER",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1786776521651QDD",
+    "ts": 1786776521651,
+    "tsStr": "15/8/2026, 14:48:41",
+    "act": "START",
+    "uid": "1043995204",
+    "uname": "Zakrissss",
+    "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
   }
