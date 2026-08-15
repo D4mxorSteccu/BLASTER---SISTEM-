@@ -1,16 +1,5 @@
 [
   {
-    "id": "L178072247313000X",
-    "ts": 1780722473130,
-    "tsStr": "6/6/2026, 13:07:53",
-    "act": "START",
-    "uid": "7922481201",
-    "uname": "RitxzEncem",
-    "detail": "Login: RESELLER_V4",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L17807237108950MR",
     "ts": 1780723710895,
     "tsStr": "6/6/2026, 13:28:30",
@@ -5684,6 +5673,17 @@
     "uid": "8328146666",
     "uname": "shapet7",
     "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1786788908795S6W",
+    "ts": 1786788908795,
+    "tsStr": "15/8/2026, 18:15:08",
+    "act": "USER_BLOCK",
+    "uid": "8387602613",
+    "uname": "—",
+    "detail": "User block/delete bot",
     "ver": "—",
     "phone": null
   }
