@@ -1,17 +1,5 @@
 [
   {
-    "id": "L1780721972185KAH",
-    "ts": 1780721972185,
-    "tsStr": "6/6/2026, 12:59:32",
-    "act": "AKSES_ADD",
-    "uid": "8206532657",
-    "uname": "NishOnlyyy",
-    "detail": "Tambah akses V4: 7922481201",
-    "ver": "V4",
-    "phone": null,
-    "teleId": "7922481201"
-  },
-  {
     "id": "L17807222428421BK",
     "ts": 1780722242842,
     "tsStr": "6/6/2026, 13:04:02",
@@ -5683,6 +5671,17 @@
     "act": "START",
     "uid": "1043995204",
     "uname": "Zakrissss",
+    "detail": "Login: RESELLER_V4",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1786776555329E71",
+    "ts": 1786776555329,
+    "tsStr": "15/8/2026, 14:49:15",
+    "act": "START",
+    "uid": "6946122020",
+    "uname": "lipzxxgelo",
     "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
