@@ -1,16 +1,5 @@
 [
   {
-    "id": "L17807237108950MR",
-    "ts": 1780723710895,
-    "tsStr": "6/6/2026, 13:28:30",
-    "act": "START",
-    "uid": "8387602613",
-    "uname": "—",
-    "detail": "Login: KING",
-    "ver": "—",
-    "phone": null
-  },
-  {
     "id": "L1780723727837T0P",
     "ts": 1780723727837,
     "tsStr": "6/6/2026, 13:28:47",
@@ -5684,6 +5673,17 @@
     "uid": "8387602613",
     "uname": "—",
     "detail": "User block/delete bot",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L17867894776126TO",
+    "ts": 1786789477612,
+    "tsStr": "15/8/2026, 18:24:37",
+    "act": "START",
+    "uid": "7961446166",
+    "uname": "Dammm117",
+    "detail": "Login: SUPER_OWNER",
     "ver": "—",
     "phone": null
   }
