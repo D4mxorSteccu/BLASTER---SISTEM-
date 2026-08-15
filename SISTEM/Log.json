@@ -1,17 +1,5 @@
 [
   {
-    "id": "L17807224311555NJ",
-    "ts": 1780722431155,
-    "tsStr": "6/6/2026, 13:07:11",
-    "act": "AKSES_ADD",
-    "uid": "8206532657",
-    "uname": "NishOnlyyy",
-    "detail": "Tambah akses V3: 7922481201",
-    "ver": "V3",
-    "phone": null,
-    "teleId": "7922481201"
-  },
-  {
     "id": "L178072247313000X",
     "ts": 1780722473130,
     "tsStr": "6/6/2026, 13:07:53",
@@ -5685,6 +5673,17 @@
     "uid": "8477166862",
     "uname": "Rixxzzgnteng",
     "detail": "Login: MODERATOR",
+    "ver": "—",
+    "phone": null
+  },
+  {
+    "id": "L1786777915421F7Q",
+    "ts": 1786777915421,
+    "tsStr": "15/8/2026, 15:11:55",
+    "act": "START",
+    "uid": "8328146666",
+    "uname": "shapet7",
+    "detail": "Login: RESELLER_V4",
     "ver": "—",
     "phone": null
   }
